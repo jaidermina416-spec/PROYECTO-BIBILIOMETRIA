@@ -1,0 +1,8002 @@
+[
+    {
+        "nombre": "Escritorio Gaming Ergonómix Pro",
+        "codigo": "P-0001",
+        "tipo": "Mobiliario",
+        "cantidad": 2,
+        "precio": 2098000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Mochila Laptop Belkin V2",
+        "codigo": "P-0002",
+        "tipo": "Accesorio",
+        "cantidad": 12,
+        "precio": 164000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Proyector Asus Basic",
+        "codigo": "P-0003",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 5939000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Lápiz Digitalizador A4Tech Mini",
+        "codigo": "P-0004",
+        "tipo": "Periférico",
+        "cantidad": 9,
+        "precio": 146000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Funda Tablet AmazonBasics Elite",
+        "codigo": "P-0005",
+        "tipo": "Accesorio",
+        "cantidad": 2,
+        "precio": 153000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Funda Tablet Ugreen Plus",
+        "codigo": "P-0006",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 68000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia Office 365 Autodesk X",
+        "codigo": "P-0007",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 350000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Switch 24 puertos Cisco Slim",
+        "codigo": "P-0008",
+        "tipo": "Red",
+        "cantidad": 13,
+        "precio": 1425000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Silla Ergonómica ComfortPro X",
+        "codigo": "P-0009",
+        "tipo": "Mobiliario",
+        "cantidad": 0,
+        "precio": 843000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Base Laptop Anker HD",
+        "codigo": "P-0010",
+        "tipo": "Accesorio",
+        "cantidad": 4,
+        "precio": 129000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Tarjeta SD Crucial Lite",
+        "codigo": "P-0011",
+        "tipo": "Almacenamiento",
+        "cantidad": 10,
+        "precio": 123000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Base Laptop Ugreen V3",
+        "codigo": "P-0012",
+        "tipo": "Accesorio",
+        "cantidad": 5,
+        "precio": 220000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Firewall Hanwha Basic",
+        "codigo": "P-0013",
+        "tipo": "Seguridad",
+        "cantidad": 44,
+        "precio": 3138000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Impresora Láser Xerox Max",
+        "codigo": "P-0014",
+        "tipo": "Impresión",
+        "cantidad": 15,
+        "precio": 929000,
+        "minimo": 5
+    },
+    {
+        "nombre": "NAS Server Crucial Plus",
+        "codigo": "P-0015",
+        "tipo": "Almacenamiento",
+        "cantidad": 31,
+        "precio": 2064000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Scanner Microsoft Mini",
+        "codigo": "P-0016",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 1008000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Teclado HyperX V3",
+        "codigo": "P-0017",
+        "tipo": "Periférico",
+        "cantidad": 7,
+        "precio": 367000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Licencia Adobe CC ESET Mini",
+        "codigo": "P-0018",
+        "tipo": "Software",
+        "cantidad": 9,
+        "precio": 1200000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Patch Panel Zyxel Plus",
+        "codigo": "P-0019",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 144000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Escritorio Gaming FlexiDesk HD",
+        "codigo": "P-0020",
+        "tipo": "Mobiliario",
+        "cantidad": 32,
+        "precio": 1973000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tarjeta SD Transcend Lite",
+        "codigo": "P-0021",
+        "tipo": "Almacenamiento",
+        "cantidad": 6,
+        "precio": 165000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Hub USB-C Cable Matters Plus",
+        "codigo": "P-0022",
+        "tipo": "Accesorio",
+        "cantidad": 11,
+        "precio": 369000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Disco HDD WD Ultra",
+        "codigo": "P-0023",
+        "tipo": "Almacenamiento",
+        "cantidad": 12,
+        "precio": 372000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Patch Panel Netgear SE",
+        "codigo": "P-0024",
+        "tipo": "Red",
+        "cantidad": 68,
+        "precio": 174000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Escritorio Gaming ErgoChair X",
+        "codigo": "P-0025",
+        "tipo": "Mobiliario",
+        "cantidad": 9,
+        "precio": 987000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Firewall Axis Slim",
+        "codigo": "P-0026",
+        "tipo": "Seguridad",
+        "cantidad": 1,
+        "precio": 1804000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Mouse Trust Slim",
+        "codigo": "P-0027",
+        "tipo": "Periférico",
+        "cantidad": 1,
+        "precio": 257000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Impresora Inkjet Lexmark Plus",
+        "codigo": "P-0028",
+        "tipo": "Impresión",
+        "cantidad": 17,
+        "precio": 407000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Funda Tablet Vention HD",
+        "codigo": "P-0029",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 77000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Impresora 3D Lexmark 4K",
+        "codigo": "P-0030",
+        "tipo": "Impresión",
+        "cantidad": 20,
+        "precio": 6469000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Cable DisplayPort Ugreen Mini",
+        "codigo": "P-0031",
+        "tipo": "Accesorio",
+        "cantidad": 37,
+        "precio": 69000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Mouse HyperX Basic",
+        "codigo": "P-0032",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 61000,
+        "minimo": 7
+    },
+    {
+        "nombre": "UPS 1200VA CyberPower X",
+        "codigo": "P-0033",
+        "tipo": "Energía",
+        "cantidad": 0,
+        "precio": 705000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Escritorio Gaming Ergonómix Basic",
+        "codigo": "P-0034",
+        "tipo": "Mobiliario",
+        "cantidad": 3,
+        "precio": 718000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Patch Panel D-Link Ultra",
+        "codigo": "P-0035",
+        "tipo": "Red",
+        "cantidad": 3,
+        "precio": 462000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Vention X",
+        "codigo": "P-0036",
+        "tipo": "Accesorio",
+        "cantidad": 18,
+        "precio": 95000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Lápiz Digitalizador Razer Plus",
+        "codigo": "P-0037",
+        "tipo": "Periférico",
+        "cantidad": 34,
+        "precio": 258000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Switch 24 puertos TP-Link V2",
+        "codigo": "P-0038",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 1988000,
+        "minimo": 12
+    },
+    {
+        "nombre": "NAS Server SanDisk HD",
+        "codigo": "P-0039",
+        "tipo": "Almacenamiento",
+        "cantidad": 4,
+        "precio": 1647000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Teclado Genius Elite",
+        "codigo": "P-0040",
+        "tipo": "Periférico",
+        "cantidad": 2,
+        "precio": 222000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Switch 8 puertos Cisco Pro",
+        "codigo": "P-0041",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 773000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Proyector Asus Elite",
+        "codigo": "P-0042",
+        "tipo": "Electrónico",
+        "cantidad": 34,
+        "precio": 5129000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Licencia Adobe CC Microsoft Elite",
+        "codigo": "P-0043",
+        "tipo": "Software",
+        "cantidad": 6,
+        "precio": 1200000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Mini PC Apple Ultra",
+        "codigo": "P-0044",
+        "tipo": "Electrónico",
+        "cantidad": 63,
+        "precio": 1716000,
+        "minimo": 13
+    },
+    {
+        "nombre": "UPS 1200VA Sola V3",
+        "codigo": "P-0045",
+        "tipo": "Energía",
+        "cantidad": 1,
+        "precio": 978000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Smartphone Toshiba V3",
+        "codigo": "P-0046",
+        "tipo": "Electrónico",
+        "cantidad": 2,
+        "precio": 3120000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Smartphone Toshiba Lite",
+        "codigo": "P-0047",
+        "tipo": "Electrónico",
+        "cantidad": 18,
+        "precio": 2959000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Patch Panel Cisco 4K",
+        "codigo": "P-0048",
+        "tipo": "Red",
+        "cantidad": 13,
+        "precio": 215000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Licencia Antivirus Adobe Mini",
+        "codigo": "P-0049",
+        "tipo": "Software",
+        "cantidad": 10,
+        "precio": 181000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Tablet Toshiba Plus",
+        "codigo": "P-0050",
+        "tipo": "Electrónico",
+        "cantidad": 45,
+        "precio": 1658000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Disco SSD Crucial Basic",
+        "codigo": "P-0051",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 521000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Base Laptop Cable Matters Ultra",
+        "codigo": "P-0052",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 172000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Laptop Apple X",
+        "codigo": "P-0053",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 3806000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Scanner A4Tech Ultra",
+        "codigo": "P-0054",
+        "tipo": "Periférico",
+        "cantidad": 35,
+        "precio": 485000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Impresora Inkjet Canon Ultra",
+        "codigo": "P-0055",
+        "tipo": "Impresión",
+        "cantidad": 28,
+        "precio": 481000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Silla Ergonómica DeskMate SE",
+        "codigo": "P-0056",
+        "tipo": "Mobiliario",
+        "cantidad": 31,
+        "precio": 466000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Mini PC Dell Slim",
+        "codigo": "P-0057",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 1125000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Cámara Web A4Tech Elite",
+        "codigo": "P-0058",
+        "tipo": "Periférico",
+        "cantidad": 28,
+        "precio": 259000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco HDD Kingston V2",
+        "codigo": "P-0059",
+        "tipo": "Almacenamiento",
+        "cantidad": 8,
+        "precio": 474000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Impresora 3D Kyocera Pro",
+        "codigo": "P-0060",
+        "tipo": "Impresión",
+        "cantidad": 29,
+        "precio": 2256000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Tablet HP Max",
+        "codigo": "P-0061",
+        "tipo": "Electrónico",
+        "cantidad": 22,
+        "precio": 1067000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Mochila Laptop Orico SE",
+        "codigo": "P-0062",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 338000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Smart TV Lenovo SE",
+        "codigo": "P-0063",
+        "tipo": "Electrónico",
+        "cantidad": 50,
+        "precio": 1347000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Auriculares LG Elite",
+        "codigo": "P-0064",
+        "tipo": "Electrónico",
+        "cantidad": 7,
+        "precio": 235000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Licencia Adobe CC Autodesk Basic",
+        "codigo": "P-0065",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 1200000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Limpiador Pantalla Vention Slim",
+        "codigo": "P-0066",
+        "tipo": "Accesorio",
+        "cantidad": 26,
+        "precio": 38000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Licencia Antivirus Adobe HD",
+        "codigo": "P-0067",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 210000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Mochila Laptop Ugreen HD",
+        "codigo": "P-0068",
+        "tipo": "Accesorio",
+        "cantidad": 61,
+        "precio": 330000,
+        "minimo": 14
+    },
+    {
+        "nombre": "DVR 8 Canales Dahua Ultra",
+        "codigo": "P-0069",
+        "tipo": "Seguridad",
+        "cantidad": 38,
+        "precio": 906000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Antivirus Microsoft 4K",
+        "codigo": "P-0070",
+        "tipo": "Software",
+        "cantidad": 4,
+        "precio": 360000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Memoria RAM Crucial 4K",
+        "codigo": "P-0071",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 413000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Lápiz Digitalizador Genius Max",
+        "codigo": "P-0072",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 161000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Limpiador Pantalla Ugreen Max",
+        "codigo": "P-0073",
+        "tipo": "Accesorio",
+        "cantidad": 29,
+        "precio": 44000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Monitor Dell Slim",
+        "codigo": "P-0074",
+        "tipo": "Electrónico",
+        "cantidad": 12,
+        "precio": 1134000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Tablet Dell X",
+        "codigo": "P-0075",
+        "tipo": "Electrónico",
+        "cantidad": 17,
+        "precio": 1689000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Router WiFi Cisco Mini",
+        "codigo": "P-0076",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 770000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Laptop MSI Slim",
+        "codigo": "P-0077",
+        "tipo": "Electrónico",
+        "cantidad": 59,
+        "precio": 3705000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Mochila Laptop Cable Matters Basic",
+        "codigo": "P-0078",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 306000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Base Laptop Ugreen X",
+        "codigo": "P-0079",
+        "tipo": "Accesorio",
+        "cantidad": 58,
+        "precio": 135000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Licencia Adobe CC Autodesk SE",
+        "codigo": "P-0080",
+        "tipo": "Software",
+        "cantidad": 37,
+        "precio": 1200000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cable HDMI Ugreen SE",
+        "codigo": "P-0081",
+        "tipo": "Accesorio",
+        "cantidad": 17,
+        "precio": 34000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Hub USB-C Cable Matters Slim",
+        "codigo": "P-0082",
+        "tipo": "Accesorio",
+        "cantidad": 36,
+        "precio": 184000,
+        "minimo": 11
+    },
+    {
+        "nombre": "UPS 1200VA APC Ultra",
+        "codigo": "P-0083",
+        "tipo": "Energía",
+        "cantidad": 23,
+        "precio": 773000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Regleta Eléctrica Cable Matters Max",
+        "codigo": "P-0084",
+        "tipo": "Accesorio",
+        "cantidad": 22,
+        "precio": 94000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Patch Panel Zyxel HD",
+        "codigo": "P-0085",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 206000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Patch Panel Mikrotik Plus",
+        "codigo": "P-0086",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 240000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Auriculares HP Pro",
+        "codigo": "P-0087",
+        "tipo": "Electrónico",
+        "cantidad": 13,
+        "precio": 651000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Switch 24 puertos Tenda Slim",
+        "codigo": "P-0088",
+        "tipo": "Red",
+        "cantidad": 7,
+        "precio": 1939000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Cable UTP Cat6 Tenda Basic",
+        "codigo": "P-0089",
+        "tipo": "Red",
+        "cantidad": 60,
+        "precio": 12000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Licencia Antivirus Bitdefender Slim",
+        "codigo": "P-0090",
+        "tipo": "Software",
+        "cantidad": 25,
+        "precio": 174000,
+        "minimo": 14
+    },
+    {
+        "nombre": "DVR 8 Canales Hanwha SE",
+        "codigo": "P-0091",
+        "tipo": "Seguridad",
+        "cantidad": 3,
+        "precio": 1531000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Switch 24 puertos Netgear HD",
+        "codigo": "P-0092",
+        "tipo": "Red",
+        "cantidad": 47,
+        "precio": 1601000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Regleta Eléctrica Ugreen HD",
+        "codigo": "P-0093",
+        "tipo": "Accesorio",
+        "cantidad": 43,
+        "precio": 91000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Router WiFi Zyxel Slim",
+        "codigo": "P-0094",
+        "tipo": "Red",
+        "cantidad": 41,
+        "precio": 342000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Impresora 3D Kyocera Basic",
+        "codigo": "P-0095",
+        "tipo": "Impresión",
+        "cantidad": 22,
+        "precio": 6723000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Cable UTP Cat6 D-Link Ultra",
+        "codigo": "P-0096",
+        "tipo": "Red",
+        "cantidad": 6,
+        "precio": 22000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Tóner HP Canon Max",
+        "codigo": "P-0097",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 313000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Auriculares Asus Mini",
+        "codigo": "P-0098",
+        "tipo": "Electrónico",
+        "cantidad": 7,
+        "precio": 462000,
+        "minimo": 13
+    },
+    {
+        "nombre": "SSD NVMe SanDisk SE",
+        "codigo": "P-0099",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 757000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Sensor Movimiento Honeywell Mini",
+        "codigo": "P-0100",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 234000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Licencia AutoCAD Bitdefender X",
+        "codigo": "P-0101",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 2800000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Memoria RAM Crucial HD",
+        "codigo": "P-0102",
+        "tipo": "Almacenamiento",
+        "cantidad": 68,
+        "precio": 579000,
+        "minimo": 15
+    },
+    {
+        "nombre": "SSD NVMe PNY V3",
+        "codigo": "P-0103",
+        "tipo": "Almacenamiento",
+        "cantidad": 28,
+        "precio": 839000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Cable UTP Cat6 D-Link Ultra",
+        "codigo": "P-0104",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 21000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Disco HDD Toshiba V3",
+        "codigo": "P-0105",
+        "tipo": "Almacenamiento",
+        "cantidad": 23,
+        "precio": 234000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Silla Ergonómica ErgoChair Pro",
+        "codigo": "P-0106",
+        "tipo": "Mobiliario",
+        "cantidad": 12,
+        "precio": 1256000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Proyector LG Elite",
+        "codigo": "P-0107",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 5582000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Tarjeta SD SanDisk Basic",
+        "codigo": "P-0108",
+        "tipo": "Almacenamiento",
+        "cantidad": 4,
+        "precio": 146000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tóner HP Kyocera 4K",
+        "codigo": "P-0109",
+        "tipo": "Impresión",
+        "cantidad": 21,
+        "precio": 192000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Monitor MSI Pro",
+        "codigo": "P-0110",
+        "tipo": "Electrónico",
+        "cantidad": 25,
+        "precio": 1316000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Tablet HP Basic",
+        "codigo": "P-0111",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 1208000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Auriculares Asus Elite",
+        "codigo": "P-0112",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 1119000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Scanner Microsoft V3",
+        "codigo": "P-0113",
+        "tipo": "Periférico",
+        "cantidad": 52,
+        "precio": 612000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Regleta Eléctrica Cable Matters V3",
+        "codigo": "P-0114",
+        "tipo": "Accesorio",
+        "cantidad": 33,
+        "precio": 49000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Cámara Web Havit Pro",
+        "codigo": "P-0115",
+        "tipo": "Periférico",
+        "cantidad": 35,
+        "precio": 279000,
+        "minimo": 11
+    },
+    {
+        "nombre": "NAS Server Kingston Plus",
+        "codigo": "P-0116",
+        "tipo": "Almacenamiento",
+        "cantidad": 28,
+        "precio": 3625000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Cámara Web SteelSeries 4K",
+        "codigo": "P-0117",
+        "tipo": "Periférico",
+        "cantidad": 64,
+        "precio": 181000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Tablet Samsung SE",
+        "codigo": "P-0118",
+        "tipo": "Electrónico",
+        "cantidad": 44,
+        "precio": 1677000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Soporte Monitor Ugreen Pro",
+        "codigo": "P-0119",
+        "tipo": "Accesorio",
+        "cantidad": 42,
+        "precio": 182000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Memoria USB Lexar V3",
+        "codigo": "P-0120",
+        "tipo": "Almacenamiento",
+        "cantidad": 5,
+        "precio": 44000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Soporte Monitor Ugreen X",
+        "codigo": "P-0121",
+        "tipo": "Accesorio",
+        "cantidad": 41,
+        "precio": 212000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Control de Acceso Hanwha X",
+        "codigo": "P-0122",
+        "tipo": "Seguridad",
+        "cantidad": 33,
+        "precio": 929000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Mini PC Dell Ultra",
+        "codigo": "P-0123",
+        "tipo": "Electrónico",
+        "cantidad": 8,
+        "precio": 2655000,
+        "minimo": 9
+    },
+    {
+        "nombre": "UPS 2000VA Eaton V2",
+        "codigo": "P-0124",
+        "tipo": "Energía",
+        "cantidad": 0,
+        "precio": 1556000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Licencia Office 365 Autodesk Elite",
+        "codigo": "P-0125",
+        "tipo": "Software",
+        "cantidad": 13,
+        "precio": 350000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Disco HDD Crucial Slim",
+        "codigo": "P-0126",
+        "tipo": "Almacenamiento",
+        "cantidad": 48,
+        "precio": 455000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Laptop MSI Basic",
+        "codigo": "P-0127",
+        "tipo": "Electrónico",
+        "cantidad": 20,
+        "precio": 1850000,
+        "minimo": 5
+    },
+    {
+        "nombre": "UPS 1200VA CyberPower V3",
+        "codigo": "P-0128",
+        "tipo": "Energía",
+        "cantidad": 40,
+        "precio": 967000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cámara IP Hikvision Plus",
+        "codigo": "P-0129",
+        "tipo": "Seguridad",
+        "cantidad": 12,
+        "precio": 581000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Cable Matters X",
+        "codigo": "P-0130",
+        "tipo": "Accesorio",
+        "cantidad": 31,
+        "precio": 41000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Router WiFi Mikrotik Max",
+        "codigo": "P-0131",
+        "tipo": "Red",
+        "cantidad": 5,
+        "precio": 899000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Impresora Láser HP V3",
+        "codigo": "P-0132",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 1488000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Firewall Hanwha Elite",
+        "codigo": "P-0133",
+        "tipo": "Seguridad",
+        "cantidad": 13,
+        "precio": 3369000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Vention HD",
+        "codigo": "P-0134",
+        "tipo": "Accesorio",
+        "cantidad": 2,
+        "precio": 102000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Sensor Movimiento Dahua Ultra",
+        "codigo": "P-0135",
+        "tipo": "Seguridad",
+        "cantidad": 1,
+        "precio": 143000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Cable DisplayPort Vention Elite",
+        "codigo": "P-0136",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 57000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cartucho Epson Xerox Elite",
+        "codigo": "P-0137",
+        "tipo": "Impresión",
+        "cantidad": 12,
+        "precio": 170000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cartucho Epson Brother Lite",
+        "codigo": "P-0138",
+        "tipo": "Impresión",
+        "cantidad": 1,
+        "precio": 157000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Impresora 3D Kyocera Lite",
+        "codigo": "P-0139",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 2434000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Cable UTP Cat6 Cisco X",
+        "codigo": "P-0140",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 28000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Auriculares Toshiba Ultra",
+        "codigo": "P-0141",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 324000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Funda Tablet Orico X",
+        "codigo": "P-0142",
+        "tipo": "Accesorio",
+        "cantidad": 42,
+        "precio": 102000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Servidor Rack 1U Apple Ultra",
+        "codigo": "P-0143",
+        "tipo": "Electrónico",
+        "cantidad": 5,
+        "precio": 15142000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Smartphone Toshiba V3",
+        "codigo": "P-0144",
+        "tipo": "Electrónico",
+        "cantidad": 4,
+        "precio": 1306000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Impresora 3D Xerox Plus",
+        "codigo": "P-0145",
+        "tipo": "Impresión",
+        "cantidad": 1,
+        "precio": 2786000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Micrófono USB Logitech Mini",
+        "codigo": "P-0146",
+        "tipo": "Periférico",
+        "cantidad": 31,
+        "precio": 410000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tablet Asus Ultra",
+        "codigo": "P-0147",
+        "tipo": "Electrónico",
+        "cantidad": 17,
+        "precio": 1379000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Hub USB-C Anker Slim",
+        "codigo": "P-0148",
+        "tipo": "Accesorio",
+        "cantidad": 51,
+        "precio": 230000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Base Laptop AmazonBasics Slim",
+        "codigo": "P-0149",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 105000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Impresora Láser Xerox Elite",
+        "codigo": "P-0150",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 1788000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Smartphone Lenovo HD",
+        "codigo": "P-0151",
+        "tipo": "Electrónico",
+        "cantidad": 47,
+        "precio": 2159000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Servidor Rack 1U Acer Lite",
+        "codigo": "P-0152",
+        "tipo": "Electrónico",
+        "cantidad": 34,
+        "precio": 7537000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Tóner HP Lexmark SE",
+        "codigo": "P-0153",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 211000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Tablet LG V3",
+        "codigo": "P-0154",
+        "tipo": "Electrónico",
+        "cantidad": 2,
+        "precio": 1460000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Impresora Láser Xerox 4K",
+        "codigo": "P-0155",
+        "tipo": "Impresión",
+        "cantidad": 31,
+        "precio": 784000,
+        "minimo": 14
+    },
+    {
+        "nombre": "UPS 2000VA APC HD",
+        "codigo": "P-0156",
+        "tipo": "Energía",
+        "cantidad": 37,
+        "precio": 1138000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Servidor Rack 1U Acer Elite",
+        "codigo": "P-0157",
+        "tipo": "Electrónico",
+        "cantidad": 39,
+        "precio": 15090000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Proyector Apple Max",
+        "codigo": "P-0158",
+        "tipo": "Electrónico",
+        "cantidad": 1,
+        "precio": 5145000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Licencia Office 365 Adobe Max",
+        "codigo": "P-0159",
+        "tipo": "Software",
+        "cantidad": 55,
+        "precio": 350000,
+        "minimo": 13
+    },
+    {
+        "nombre": "NAS Server PNY Pro",
+        "codigo": "P-0160",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 3062000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Mouse Genius 4K",
+        "codigo": "P-0161",
+        "tipo": "Periférico",
+        "cantidad": 57,
+        "precio": 176000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Licencia Antivirus ESET Lite",
+        "codigo": "P-0162",
+        "tipo": "Software",
+        "cantidad": 1,
+        "precio": 331000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Silla Ergonómica OfficePlus V2",
+        "codigo": "P-0163",
+        "tipo": "Mobiliario",
+        "cantidad": 0,
+        "precio": 1355000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Tóner HP Lexmark Elite",
+        "codigo": "P-0164",
+        "tipo": "Impresión",
+        "cantidad": 40,
+        "precio": 158000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Mouse Logitech V2",
+        "codigo": "P-0165",
+        "tipo": "Periférico",
+        "cantidad": 3,
+        "precio": 200000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Vention Pro",
+        "codigo": "P-0166",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 53000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Sensor Movimiento Hikvision Lite",
+        "codigo": "P-0167",
+        "tipo": "Seguridad",
+        "cantidad": 43,
+        "precio": 115000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Mini PC Acer SE",
+        "codigo": "P-0168",
+        "tipo": "Electrónico",
+        "cantidad": 21,
+        "precio": 2294000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Access Point D-Link Lite",
+        "codigo": "P-0169",
+        "tipo": "Red",
+        "cantidad": 20,
+        "precio": 844000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Mochila Laptop Anker 4K",
+        "codigo": "P-0170",
+        "tipo": "Accesorio",
+        "cantidad": 19,
+        "precio": 155000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco HDD PNY Ultra",
+        "codigo": "P-0171",
+        "tipo": "Almacenamiento",
+        "cantidad": 24,
+        "precio": 151000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Regulador Voltaje Sola Lite",
+        "codigo": "P-0172",
+        "tipo": "Energía",
+        "cantidad": 31,
+        "precio": 161000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Disco HDD PNY HD",
+        "codigo": "P-0173",
+        "tipo": "Almacenamiento",
+        "cantidad": 28,
+        "precio": 428000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia Antivirus Adobe V3",
+        "codigo": "P-0174",
+        "tipo": "Software",
+        "cantidad": 37,
+        "precio": 242000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Tablet Samsung V3",
+        "codigo": "P-0175",
+        "tipo": "Electrónico",
+        "cantidad": 37,
+        "precio": 1768000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tarjeta SD Seagate Lite",
+        "codigo": "P-0176",
+        "tipo": "Almacenamiento",
+        "cantidad": 14,
+        "precio": 39000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia Antivirus Microsoft 4K",
+        "codigo": "P-0177",
+        "tipo": "Software",
+        "cantidad": 10,
+        "precio": 345000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Laptop Lenovo Mini",
+        "codigo": "P-0178",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 4181000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Cámara IP Bosch Max",
+        "codigo": "P-0179",
+        "tipo": "Seguridad",
+        "cantidad": 18,
+        "precio": 918000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Licencia Office 365 Autodesk 4K",
+        "codigo": "P-0180",
+        "tipo": "Software",
+        "cantidad": 35,
+        "precio": 350000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Funda Tablet Orico 4K",
+        "codigo": "P-0181",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 54000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Escritorio Gaming DeskMate Slim",
+        "codigo": "P-0182",
+        "tipo": "Mobiliario",
+        "cantidad": 18,
+        "precio": 1168000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Cámara Web Razer Lite",
+        "codigo": "P-0183",
+        "tipo": "Periférico",
+        "cantidad": 1,
+        "precio": 205000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tablet Samsung HD",
+        "codigo": "P-0184",
+        "tipo": "Electrónico",
+        "cantidad": 19,
+        "precio": 914000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Auriculares Asus SE",
+        "codigo": "P-0185",
+        "tipo": "Electrónico",
+        "cantidad": 22,
+        "precio": 993000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Micrófono USB Corsair Plus",
+        "codigo": "P-0186",
+        "tipo": "Periférico",
+        "cantidad": 58,
+        "precio": 492000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Impresora Inkjet Brother Slim",
+        "codigo": "P-0187",
+        "tipo": "Impresión",
+        "cantidad": 3,
+        "precio": 917000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Impresora 3D Brother Ultra",
+        "codigo": "P-0188",
+        "tipo": "Impresión",
+        "cantidad": 9,
+        "precio": 6962000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Licencia Adobe CC Autodesk V2",
+        "codigo": "P-0189",
+        "tipo": "Software",
+        "cantidad": 8,
+        "precio": 1200000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Regulador Voltaje Forza V2",
+        "codigo": "P-0190",
+        "tipo": "Energía",
+        "cantidad": 5,
+        "precio": 302000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Lápiz Digitalizador Genius 4K",
+        "codigo": "P-0191",
+        "tipo": "Periférico",
+        "cantidad": 2,
+        "precio": 213000,
+        "minimo": 3
+    },
+    {
+        "nombre": "UPS 2000VA Forza V3",
+        "codigo": "P-0192",
+        "tipo": "Energía",
+        "cantidad": 8,
+        "precio": 1384000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Tóner HP HP X",
+        "codigo": "P-0193",
+        "tipo": "Impresión",
+        "cantidad": 15,
+        "precio": 306000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Servidor Rack 1U Toshiba V3",
+        "codigo": "P-0194",
+        "tipo": "Electrónico",
+        "cantidad": 33,
+        "precio": 13638000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Limpiador Pantalla AmazonBasics Basic",
+        "codigo": "P-0195",
+        "tipo": "Accesorio",
+        "cantidad": 24,
+        "precio": 34000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Impresora 3D Xerox HD",
+        "codigo": "P-0196",
+        "tipo": "Impresión",
+        "cantidad": 67,
+        "precio": 7405000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Teclado Razer Slim",
+        "codigo": "P-0197",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 401000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cámara IP Honeywell Pro",
+        "codigo": "P-0198",
+        "tipo": "Seguridad",
+        "cantidad": 9,
+        "precio": 873000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Servidor Rack 1U Acer Max",
+        "codigo": "P-0199",
+        "tipo": "Electrónico",
+        "cantidad": 2,
+        "precio": 17746000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Cámara IP Axis Slim",
+        "codigo": "P-0200",
+        "tipo": "Seguridad",
+        "cantidad": 27,
+        "precio": 654000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Sensor Movimiento Dahua Ultra",
+        "codigo": "P-0201",
+        "tipo": "Seguridad",
+        "cantidad": 6,
+        "precio": 208000,
+        "minimo": 14
+    },
+    {
+        "nombre": "DVR 8 Canales Hikvision Lite",
+        "codigo": "P-0202",
+        "tipo": "Seguridad",
+        "cantidad": 11,
+        "precio": 734000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia Antivirus Norton V3",
+        "codigo": "P-0203",
+        "tipo": "Software",
+        "cantidad": 31,
+        "precio": 465000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Proyector LG Pro",
+        "codigo": "P-0204",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 3966000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Memoria USB Crucial X",
+        "codigo": "P-0205",
+        "tipo": "Almacenamiento",
+        "cantidad": 38,
+        "precio": 73000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Cámara Web HyperX Lite",
+        "codigo": "P-0206",
+        "tipo": "Periférico",
+        "cantidad": 46,
+        "precio": 132000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Disco SSD Transcend Basic",
+        "codigo": "P-0207",
+        "tipo": "Almacenamiento",
+        "cantidad": 56,
+        "precio": 264000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Cable Matters Mini",
+        "codigo": "P-0208",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 25000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Tablet Acer Lite",
+        "codigo": "P-0209",
+        "tipo": "Electrónico",
+        "cantidad": 1,
+        "precio": 1037000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Tarjeta SD Lexar Max",
+        "codigo": "P-0210",
+        "tipo": "Almacenamiento",
+        "cantidad": 17,
+        "precio": 168000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia AutoCAD Kaspersky V2",
+        "codigo": "P-0211",
+        "tipo": "Software",
+        "cantidad": 41,
+        "precio": 2800000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Tóner HP HP V3",
+        "codigo": "P-0212",
+        "tipo": "Impresión",
+        "cantidad": 12,
+        "precio": 179000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Licencia Office 365 Autodesk Plus",
+        "codigo": "P-0213",
+        "tipo": "Software",
+        "cantidad": 32,
+        "precio": 350000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Smartphone LG Ultra",
+        "codigo": "P-0214",
+        "tipo": "Electrónico",
+        "cantidad": 10,
+        "precio": 1677000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Proyector Asus V2",
+        "codigo": "P-0215",
+        "tipo": "Electrónico",
+        "cantidad": 5,
+        "precio": 1974000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Teclado Havit Basic",
+        "codigo": "P-0216",
+        "tipo": "Periférico",
+        "cantidad": 28,
+        "precio": 115000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Regulador Voltaje CyberPower 4K",
+        "codigo": "P-0217",
+        "tipo": "Energía",
+        "cantidad": 32,
+        "precio": 204000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Licencia Adobe CC ESET Pro",
+        "codigo": "P-0218",
+        "tipo": "Software",
+        "cantidad": 23,
+        "precio": 1200000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Firewall Bosch HD",
+        "codigo": "P-0219",
+        "tipo": "Seguridad",
+        "cantidad": 3,
+        "precio": 3229000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Teclado Logitech Max",
+        "codigo": "P-0220",
+        "tipo": "Periférico",
+        "cantidad": 3,
+        "precio": 201000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Impresora 3D HP Elite",
+        "codigo": "P-0221",
+        "tipo": "Impresión",
+        "cantidad": 12,
+        "precio": 7576000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Access Point Zyxel HD",
+        "codigo": "P-0222",
+        "tipo": "Red",
+        "cantidad": 38,
+        "precio": 650000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Patch Panel D-Link X",
+        "codigo": "P-0223",
+        "tipo": "Red",
+        "cantidad": 55,
+        "precio": 142000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Rack 12U Ubiquiti Lite",
+        "codigo": "P-0224",
+        "tipo": "Red",
+        "cantidad": 8,
+        "precio": 713000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Router WiFi Cisco Lite",
+        "codigo": "P-0225",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 909000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Proyector Samsung X",
+        "codigo": "P-0226",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 3015000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Silla Ergonómica DeskMate X",
+        "codigo": "P-0227",
+        "tipo": "Mobiliario",
+        "cantidad": 10,
+        "precio": 1573000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Rack 12U Ubiquiti Lite",
+        "codigo": "P-0228",
+        "tipo": "Red",
+        "cantidad": 55,
+        "precio": 1685000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Mouse A4Tech V3",
+        "codigo": "P-0229",
+        "tipo": "Periférico",
+        "cantidad": 12,
+        "precio": 266000,
+        "minimo": 5
+    },
+    {
+        "nombre": "SSD NVMe SanDisk 4K",
+        "codigo": "P-0230",
+        "tipo": "Almacenamiento",
+        "cantidad": 14,
+        "precio": 744000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Disco SSD Toshiba Max",
+        "codigo": "P-0231",
+        "tipo": "Almacenamiento",
+        "cantidad": 28,
+        "precio": 461000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Mini PC Apple Plus",
+        "codigo": "P-0232",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 1036000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Router WiFi Cisco V3",
+        "codigo": "P-0233",
+        "tipo": "Red",
+        "cantidad": 24,
+        "precio": 936000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Smartphone Toshiba SE",
+        "codigo": "P-0234",
+        "tipo": "Electrónico",
+        "cantidad": 20,
+        "precio": 3200000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Memoria RAM Toshiba 4K",
+        "codigo": "P-0235",
+        "tipo": "Almacenamiento",
+        "cantidad": 17,
+        "precio": 232000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Cámara Web Havit SE",
+        "codigo": "P-0236",
+        "tipo": "Periférico",
+        "cantidad": 11,
+        "precio": 228000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia Office 365 Microsoft Max",
+        "codigo": "P-0237",
+        "tipo": "Software",
+        "cantidad": 12,
+        "precio": 350000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Impresora Láser Kyocera Mini",
+        "codigo": "P-0238",
+        "tipo": "Impresión",
+        "cantidad": 55,
+        "precio": 807000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Tóner HP HP Elite",
+        "codigo": "P-0239",
+        "tipo": "Impresión",
+        "cantidad": 34,
+        "precio": 154000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Memoria RAM Samsung Elite",
+        "codigo": "P-0240",
+        "tipo": "Almacenamiento",
+        "cantidad": 15,
+        "precio": 326000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Auriculares HP Plus",
+        "codigo": "P-0241",
+        "tipo": "Electrónico",
+        "cantidad": 29,
+        "precio": 590000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Micrófono USB Trust Ultra",
+        "codigo": "P-0242",
+        "tipo": "Periférico",
+        "cantidad": 25,
+        "precio": 549000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Regleta Eléctrica Belkin Slim",
+        "codigo": "P-0243",
+        "tipo": "Accesorio",
+        "cantidad": 3,
+        "precio": 41000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Smartphone Dell Ultra",
+        "codigo": "P-0244",
+        "tipo": "Electrónico",
+        "cantidad": 50,
+        "precio": 2714000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Switch 8 puertos Tenda Ultra",
+        "codigo": "P-0245",
+        "tipo": "Red",
+        "cantidad": 36,
+        "precio": 440000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Router WiFi Cisco Ultra",
+        "codigo": "P-0246",
+        "tipo": "Red",
+        "cantidad": 45,
+        "precio": 874000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Base Laptop Ugreen Pro",
+        "codigo": "P-0247",
+        "tipo": "Accesorio",
+        "cantidad": 11,
+        "precio": 111000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Laptop Asus Ultra",
+        "codigo": "P-0248",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 2365000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Impresora 3D Canon Max",
+        "codigo": "P-0249",
+        "tipo": "Impresión",
+        "cantidad": 8,
+        "precio": 2482000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Gamepad Corsair Mini",
+        "codigo": "P-0250",
+        "tipo": "Periférico",
+        "cantidad": 32,
+        "precio": 237000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Smart TV LG 4K",
+        "codigo": "P-0251",
+        "tipo": "Electrónico",
+        "cantidad": 9,
+        "precio": 4239000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Servidor Rack 1U Dell 4K",
+        "codigo": "P-0252",
+        "tipo": "Electrónico",
+        "cantidad": 36,
+        "precio": 10629000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Cable DisplayPort Cable Matters Mini",
+        "codigo": "P-0253",
+        "tipo": "Accesorio",
+        "cantidad": 8,
+        "precio": 59000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Micrófono USB Havit Lite",
+        "codigo": "P-0254",
+        "tipo": "Periférico",
+        "cantidad": 18,
+        "precio": 605000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Router WiFi Cisco Basic",
+        "codigo": "P-0255",
+        "tipo": "Red",
+        "cantidad": 16,
+        "precio": 626000,
+        "minimo": 11
+    },
+    {
+        "nombre": "NAS Server Crucial V3",
+        "codigo": "P-0256",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 2590000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Smart TV MSI V2",
+        "codigo": "P-0257",
+        "tipo": "Electrónico",
+        "cantidad": 32,
+        "precio": 1667000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Memoria RAM Seagate Basic",
+        "codigo": "P-0258",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 285000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Regleta Eléctrica Anker HD",
+        "codigo": "P-0259",
+        "tipo": "Accesorio",
+        "cantidad": 2,
+        "precio": 118000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Switch 24 puertos Zyxel V2",
+        "codigo": "P-0260",
+        "tipo": "Red",
+        "cantidad": 50,
+        "precio": 2456000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Disco SSD SanDisk Elite",
+        "codigo": "P-0261",
+        "tipo": "Almacenamiento",
+        "cantidad": 13,
+        "precio": 650000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Papel Fotográfico A4 AmazonBasics Ultra",
+        "codigo": "P-0262",
+        "tipo": "Accesorio",
+        "cantidad": 3,
+        "precio": 55000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Orico Lite",
+        "codigo": "P-0263",
+        "tipo": "Accesorio",
+        "cantidad": 6,
+        "precio": 20000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Smart TV Dell X",
+        "codigo": "P-0264",
+        "tipo": "Electrónico",
+        "cantidad": 47,
+        "precio": 3633000,
+        "minimo": 10
+    },
+    {
+        "nombre": "UPS 1200VA Sola Slim",
+        "codigo": "P-0265",
+        "tipo": "Energía",
+        "cantidad": 45,
+        "precio": 522000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Soporte Monitor Anker Max",
+        "codigo": "P-0266",
+        "tipo": "Accesorio",
+        "cantidad": 12,
+        "precio": 229000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Switch 8 puertos Cisco HD",
+        "codigo": "P-0267",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 571000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Soporte Monitor Anker Pro",
+        "codigo": "P-0268",
+        "tipo": "Accesorio",
+        "cantidad": 41,
+        "precio": 138000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Rack 12U Netgear Max",
+        "codigo": "P-0269",
+        "tipo": "Red",
+        "cantidad": 30,
+        "precio": 1413000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco HDD Transcend Pro",
+        "codigo": "P-0270",
+        "tipo": "Almacenamiento",
+        "cantidad": 6,
+        "precio": 473000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cámara Web A4Tech V2",
+        "codigo": "P-0271",
+        "tipo": "Periférico",
+        "cantidad": 5,
+        "precio": 317000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Licencia Antivirus Adobe Max",
+        "codigo": "P-0272",
+        "tipo": "Software",
+        "cantidad": 33,
+        "precio": 161000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Cable Matters V3",
+        "codigo": "P-0273",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 60000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Cable DisplayPort Belkin Ultra",
+        "codigo": "P-0274",
+        "tipo": "Accesorio",
+        "cantidad": 29,
+        "precio": 93000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Control de Acceso Dahua V2",
+        "codigo": "P-0275",
+        "tipo": "Seguridad",
+        "cantidad": 9,
+        "precio": 1458000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Patch Panel Mikrotik Pro",
+        "codigo": "P-0276",
+        "tipo": "Red",
+        "cantidad": 2,
+        "precio": 305000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco HDD Lexar Basic",
+        "codigo": "P-0277",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 265000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia Office 365 Bitdefender Plus",
+        "codigo": "P-0278",
+        "tipo": "Software",
+        "cantidad": 10,
+        "precio": 350000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Teclado Havit Mini",
+        "codigo": "P-0279",
+        "tipo": "Periférico",
+        "cantidad": 3,
+        "precio": 158000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Limpiador Pantalla Vention HD",
+        "codigo": "P-0280",
+        "tipo": "Accesorio",
+        "cantidad": 39,
+        "precio": 22000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Memoria USB Kingston Lite",
+        "codigo": "P-0281",
+        "tipo": "Almacenamiento",
+        "cantidad": 20,
+        "precio": 103000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Impresora Láser Lexmark Basic",
+        "codigo": "P-0282",
+        "tipo": "Impresión",
+        "cantidad": 67,
+        "precio": 1967000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Lápiz Digitalizador Trust V2",
+        "codigo": "P-0283",
+        "tipo": "Periférico",
+        "cantidad": 27,
+        "precio": 236000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Limpiador Pantalla Orico SE",
+        "codigo": "P-0284",
+        "tipo": "Accesorio",
+        "cantidad": 20,
+        "precio": 45000,
+        "minimo": 8
+    },
+    {
+        "nombre": "DVR 8 Canales Axis Elite",
+        "codigo": "P-0285",
+        "tipo": "Seguridad",
+        "cantidad": 7,
+        "precio": 1092000,
+        "minimo": 2
+    },
+    {
+        "nombre": "UPS 1200VA APC V3",
+        "codigo": "P-0286",
+        "tipo": "Energía",
+        "cantidad": 0,
+        "precio": 1008000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Proyector Lenovo Ultra",
+        "codigo": "P-0287",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 5480000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Router WiFi Cisco Slim",
+        "codigo": "P-0288",
+        "tipo": "Red",
+        "cantidad": 37,
+        "precio": 407000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Mini PC HP Mini",
+        "codigo": "P-0289",
+        "tipo": "Electrónico",
+        "cantidad": 23,
+        "precio": 959000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tarjeta SD WD Max",
+        "codigo": "P-0290",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 87000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Sensor Movimiento Hanwha V2",
+        "codigo": "P-0291",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 170000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Tablet Acer Slim",
+        "codigo": "P-0292",
+        "tipo": "Electrónico",
+        "cantidad": 61,
+        "precio": 1767000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Cable DisplayPort Orico Lite",
+        "codigo": "P-0293",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 22000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Scanner Corsair SE",
+        "codigo": "P-0294",
+        "tipo": "Periférico",
+        "cantidad": 18,
+        "precio": 1094000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Limpiador Pantalla Ugreen Basic",
+        "codigo": "P-0295",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 31000,
+        "minimo": 3
+    },
+    {
+        "nombre": "SSD NVMe Transcend Lite",
+        "codigo": "P-0296",
+        "tipo": "Almacenamiento",
+        "cantidad": 10,
+        "precio": 344000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Regleta Eléctrica Vention Pro",
+        "codigo": "P-0297",
+        "tipo": "Accesorio",
+        "cantidad": 19,
+        "precio": 115000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cartucho Epson Brother Pro",
+        "codigo": "P-0298",
+        "tipo": "Impresión",
+        "cantidad": 10,
+        "precio": 135000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Base Laptop Cable Matters Plus",
+        "codigo": "P-0299",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 189000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Rack 12U TP-Link Mini",
+        "codigo": "P-0300",
+        "tipo": "Red",
+        "cantidad": 7,
+        "precio": 1612000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Impresora 3D Xerox Pro",
+        "codigo": "P-0301",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 4425000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Impresora Inkjet Xerox V2",
+        "codigo": "P-0302",
+        "tipo": "Impresión",
+        "cantidad": 62,
+        "precio": 426000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Disco HDD Seagate Pro",
+        "codigo": "P-0303",
+        "tipo": "Almacenamiento",
+        "cantidad": 3,
+        "precio": 330000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Sensor Movimiento Hanwha Lite",
+        "codigo": "P-0304",
+        "tipo": "Seguridad",
+        "cantidad": 17,
+        "precio": 263000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Smart TV Apple Pro",
+        "codigo": "P-0305",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 2401000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Lápiz Digitalizador Logitech Max",
+        "codigo": "P-0306",
+        "tipo": "Periférico",
+        "cantidad": 44,
+        "precio": 169000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Access Point Ubiquiti Pro",
+        "codigo": "P-0307",
+        "tipo": "Red",
+        "cantidad": 1,
+        "precio": 942000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Licencia Antivirus Norton Max",
+        "codigo": "P-0308",
+        "tipo": "Software",
+        "cantidad": 9,
+        "precio": 259000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Licencia AutoCAD Kaspersky V3",
+        "codigo": "P-0309",
+        "tipo": "Software",
+        "cantidad": 2,
+        "precio": 2800000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Cable UTP Cat6 Zyxel Max",
+        "codigo": "P-0310",
+        "tipo": "Red",
+        "cantidad": 2,
+        "precio": 33000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Orico Plus",
+        "codigo": "P-0311",
+        "tipo": "Accesorio",
+        "cantidad": 22,
+        "precio": 90000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Firewall Bosch Max",
+        "codigo": "P-0312",
+        "tipo": "Seguridad",
+        "cantidad": 2,
+        "precio": 2640000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Orico X",
+        "codigo": "P-0313",
+        "tipo": "Accesorio",
+        "cantidad": 4,
+        "precio": 63000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Memoria RAM Lexar Pro",
+        "codigo": "P-0314",
+        "tipo": "Almacenamiento",
+        "cantidad": 28,
+        "precio": 541000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Escritorio Gaming Ergonómix Plus",
+        "codigo": "P-0315",
+        "tipo": "Mobiliario",
+        "cantidad": 44,
+        "precio": 1954000,
+        "minimo": 12
+    },
+    {
+        "nombre": "DVR 8 Canales Hanwha V2",
+        "codigo": "P-0316",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 907000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Regleta Eléctrica Cable Matters HD",
+        "codigo": "P-0317",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 91000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Impresora Inkjet Kyocera V2",
+        "codigo": "P-0318",
+        "tipo": "Impresión",
+        "cantidad": 25,
+        "precio": 695000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tablet Toshiba Elite",
+        "codigo": "P-0319",
+        "tipo": "Electrónico",
+        "cantidad": 32,
+        "precio": 2190000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Switch 8 puertos Cisco X",
+        "codigo": "P-0320",
+        "tipo": "Red",
+        "cantidad": 30,
+        "precio": 360000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Soporte Monitor Ugreen Basic",
+        "codigo": "P-0321",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 104000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Rack 12U Tenda Slim",
+        "codigo": "P-0322",
+        "tipo": "Red",
+        "cantidad": 2,
+        "precio": 1800000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cable DisplayPort Orico Basic",
+        "codigo": "P-0323",
+        "tipo": "Accesorio",
+        "cantidad": 44,
+        "precio": 58000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Lápiz Digitalizador Razer Elite",
+        "codigo": "P-0324",
+        "tipo": "Periférico",
+        "cantidad": 14,
+        "precio": 308000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Switch 8 puertos Cisco HD",
+        "codigo": "P-0325",
+        "tipo": "Red",
+        "cantidad": 2,
+        "precio": 547000,
+        "minimo": 12
+    },
+    {
+        "nombre": "UPS 1200VA Eaton Ultra",
+        "codigo": "P-0326",
+        "tipo": "Energía",
+        "cantidad": 12,
+        "precio": 787000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Mini PC Lenovo HD",
+        "codigo": "P-0327",
+        "tipo": "Electrónico",
+        "cantidad": 4,
+        "precio": 1590000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cámara IP Dahua Basic",
+        "codigo": "P-0328",
+        "tipo": "Seguridad",
+        "cantidad": 7,
+        "precio": 785000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Switch 24 puertos Netgear X",
+        "codigo": "P-0329",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 2460000,
+        "minimo": 3
+    },
+    {
+        "nombre": "NAS Server Lexar SE",
+        "codigo": "P-0330",
+        "tipo": "Almacenamiento",
+        "cantidad": 50,
+        "precio": 2882000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Smart TV Lenovo Max",
+        "codigo": "P-0331",
+        "tipo": "Electrónico",
+        "cantidad": 13,
+        "precio": 3831000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Rack 12U Mikrotik Elite",
+        "codigo": "P-0332",
+        "tipo": "Red",
+        "cantidad": 20,
+        "precio": 1779000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Router WiFi TP-Link 4K",
+        "codigo": "P-0333",
+        "tipo": "Red",
+        "cantidad": 3,
+        "precio": 307000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Micrófono USB Trust Slim",
+        "codigo": "P-0334",
+        "tipo": "Periférico",
+        "cantidad": 3,
+        "precio": 543000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Licencia Office 365 Microsoft Ultra",
+        "codigo": "P-0335",
+        "tipo": "Software",
+        "cantidad": 29,
+        "precio": 350000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Teclado SteelSeries X",
+        "codigo": "P-0336",
+        "tipo": "Periférico",
+        "cantidad": 5,
+        "precio": 353000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Regulador Voltaje Eaton Elite",
+        "codigo": "P-0337",
+        "tipo": "Energía",
+        "cantidad": 50,
+        "precio": 172000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Disco HDD Transcend Pro",
+        "codigo": "P-0338",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 164000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Soporte Monitor AmazonBasics X",
+        "codigo": "P-0339",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 142000,
+        "minimo": 12
+    },
+    {
+        "nombre": "SSD NVMe Transcend V2",
+        "codigo": "P-0340",
+        "tipo": "Almacenamiento",
+        "cantidad": 43,
+        "precio": 311000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cartucho Epson Xerox Ultra",
+        "codigo": "P-0341",
+        "tipo": "Impresión",
+        "cantidad": 17,
+        "precio": 168000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Orico Plus",
+        "codigo": "P-0342",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 62000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Access Point Zyxel Basic",
+        "codigo": "P-0343",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 628000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Licencia Antivirus Norton Max",
+        "codigo": "P-0344",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 296000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Memoria USB PNY SE",
+        "codigo": "P-0345",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 38000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tóner HP Brother Basic",
+        "codigo": "P-0346",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 121000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Tarjeta SD Transcend Mini",
+        "codigo": "P-0347",
+        "tipo": "Almacenamiento",
+        "cantidad": 67,
+        "precio": 93000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Disco SSD Transcend V3",
+        "codigo": "P-0348",
+        "tipo": "Almacenamiento",
+        "cantidad": 20,
+        "precio": 520000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Patch Panel Zyxel Lite",
+        "codigo": "P-0349",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 277000,
+        "minimo": 9
+    },
+    {
+        "nombre": "NAS Server PNY Lite",
+        "codigo": "P-0350",
+        "tipo": "Almacenamiento",
+        "cantidad": 6,
+        "precio": 2186000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Smartphone Acer Lite",
+        "codigo": "P-0351",
+        "tipo": "Electrónico",
+        "cantidad": 45,
+        "precio": 3347000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Cartucho Epson Lexmark Pro",
+        "codigo": "P-0352",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 72000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Impresora 3D Xerox Max",
+        "codigo": "P-0353",
+        "tipo": "Impresión",
+        "cantidad": 33,
+        "precio": 7757000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Smartphone Toshiba SE",
+        "codigo": "P-0354",
+        "tipo": "Electrónico",
+        "cantidad": 9,
+        "precio": 1697000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tarjeta SD PNY Lite",
+        "codigo": "P-0355",
+        "tipo": "Almacenamiento",
+        "cantidad": 25,
+        "precio": 170000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Hub USB-C Vention Plus",
+        "codigo": "P-0356",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 160000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Disco HDD PNY Max",
+        "codigo": "P-0357",
+        "tipo": "Almacenamiento",
+        "cantidad": 3,
+        "precio": 536000,
+        "minimo": 4
+    },
+    {
+        "nombre": "NAS Server PNY Pro",
+        "codigo": "P-0358",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 1385000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Disco HDD Lexar SE",
+        "codigo": "P-0359",
+        "tipo": "Almacenamiento",
+        "cantidad": 20,
+        "precio": 383000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Teclado Trust Slim",
+        "codigo": "P-0360",
+        "tipo": "Periférico",
+        "cantidad": 5,
+        "precio": 393000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Mochila Laptop AmazonBasics Ultra",
+        "codigo": "P-0361",
+        "tipo": "Accesorio",
+        "cantidad": 44,
+        "precio": 292000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cable UTP Cat6 Ubiquiti Lite",
+        "codigo": "P-0362",
+        "tipo": "Red",
+        "cantidad": 3,
+        "precio": 34000,
+        "minimo": 2
+    },
+    {
+        "nombre": "SSD NVMe Transcend Ultra",
+        "codigo": "P-0363",
+        "tipo": "Almacenamiento",
+        "cantidad": 6,
+        "precio": 924000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Soporte Monitor AmazonBasics HD",
+        "codigo": "P-0364",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 223000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Regulador Voltaje Tripp-Lite Elite",
+        "codigo": "P-0365",
+        "tipo": "Energía",
+        "cantidad": 36,
+        "precio": 353000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Auriculares Asus Pro",
+        "codigo": "P-0366",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 375000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Disco SSD Toshiba Elite",
+        "codigo": "P-0367",
+        "tipo": "Almacenamiento",
+        "cantidad": 9,
+        "precio": 622000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Limpiador Pantalla Vention Slim",
+        "codigo": "P-0368",
+        "tipo": "Accesorio",
+        "cantidad": 61,
+        "precio": 42000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Smartphone Lenovo SE",
+        "codigo": "P-0369",
+        "tipo": "Electrónico",
+        "cantidad": 8,
+        "precio": 1749000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Rack 12U Tenda Max",
+        "codigo": "P-0370",
+        "tipo": "Red",
+        "cantidad": 30,
+        "precio": 1004000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Firewall Bosch V2",
+        "codigo": "P-0371",
+        "tipo": "Seguridad",
+        "cantidad": 56,
+        "precio": 8124000,
+        "minimo": 15
+    },
+    {
+        "nombre": "DVR 8 Canales Hanwha Ultra",
+        "codigo": "P-0372",
+        "tipo": "Seguridad",
+        "cantidad": 13,
+        "precio": 1571000,
+        "minimo": 5
+    },
+    {
+        "nombre": "UPS 1200VA Forza Basic",
+        "codigo": "P-0373",
+        "tipo": "Energía",
+        "cantidad": 4,
+        "precio": 784000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Cable HDMI Cable Matters Lite",
+        "codigo": "P-0374",
+        "tipo": "Accesorio",
+        "cantidad": 5,
+        "precio": 58000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cartucho Epson HP X",
+        "codigo": "P-0375",
+        "tipo": "Impresión",
+        "cantidad": 17,
+        "precio": 142000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Cartucho Epson HP Ultra",
+        "codigo": "P-0376",
+        "tipo": "Impresión",
+        "cantidad": 27,
+        "precio": 65000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Impresora 3D Xerox Lite",
+        "codigo": "P-0377",
+        "tipo": "Impresión",
+        "cantidad": 13,
+        "precio": 3252000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Mini PC MSI V3",
+        "codigo": "P-0378",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 1406000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Mochila Laptop Vention Basic",
+        "codigo": "P-0379",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 244000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Impresora Láser Xerox Basic",
+        "codigo": "P-0380",
+        "tipo": "Impresión",
+        "cantidad": 14,
+        "precio": 915000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Access Point Cisco V2",
+        "codigo": "P-0381",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 420000,
+        "minimo": 2
+    },
+    {
+        "nombre": "SSD NVMe Lexar Lite",
+        "codigo": "P-0382",
+        "tipo": "Almacenamiento",
+        "cantidad": 14,
+        "precio": 946000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Disco SSD Crucial V2",
+        "codigo": "P-0383",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 260000,
+        "minimo": 14
+    },
+    {
+        "nombre": "UPS 2000VA CyberPower SE",
+        "codigo": "P-0384",
+        "tipo": "Energía",
+        "cantidad": 9,
+        "precio": 856000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Mini PC HP 4K",
+        "codigo": "P-0385",
+        "tipo": "Electrónico",
+        "cantidad": 61,
+        "precio": 1663000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Antivirus Autodesk Slim",
+        "codigo": "P-0386",
+        "tipo": "Software",
+        "cantidad": 1,
+        "precio": 139000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Mini PC Samsung Ultra",
+        "codigo": "P-0387",
+        "tipo": "Electrónico",
+        "cantidad": 43,
+        "precio": 1780000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Licencia AutoCAD Adobe 4K",
+        "codigo": "P-0388",
+        "tipo": "Software",
+        "cantidad": 1,
+        "precio": 2800000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco HDD Seagate V3",
+        "codigo": "P-0389",
+        "tipo": "Almacenamiento",
+        "cantidad": 3,
+        "precio": 384000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Laptop Samsung HD",
+        "codigo": "P-0390",
+        "tipo": "Electrónico",
+        "cantidad": 23,
+        "precio": 2708000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Gamepad Havit 4K",
+        "codigo": "P-0391",
+        "tipo": "Periférico",
+        "cantidad": 35,
+        "precio": 327000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Proyector LG V2",
+        "codigo": "P-0392",
+        "tipo": "Electrónico",
+        "cantidad": 19,
+        "precio": 2581000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Disco SSD Kingston Pro",
+        "codigo": "P-0393",
+        "tipo": "Almacenamiento",
+        "cantidad": 7,
+        "precio": 467000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tóner HP Canon Ultra",
+        "codigo": "P-0394",
+        "tipo": "Impresión",
+        "cantidad": 29,
+        "precio": 234000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Soporte Monitor Ugreen V3",
+        "codigo": "P-0395",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 135000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Anker Mini",
+        "codigo": "P-0396",
+        "tipo": "Accesorio",
+        "cantidad": 29,
+        "precio": 61000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cable HDMI Belkin V2",
+        "codigo": "P-0397",
+        "tipo": "Accesorio",
+        "cantidad": 14,
+        "precio": 55000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Teclado Microsoft Elite",
+        "codigo": "P-0398",
+        "tipo": "Periférico",
+        "cantidad": 36,
+        "precio": 312000,
+        "minimo": 13
+    },
+    {
+        "nombre": "SSD NVMe PNY Slim",
+        "codigo": "P-0399",
+        "tipo": "Almacenamiento",
+        "cantidad": 56,
+        "precio": 762000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Control de Acceso Dahua HD",
+        "codigo": "P-0400",
+        "tipo": "Seguridad",
+        "cantidad": 17,
+        "precio": 886000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Rack 12U Zyxel SE",
+        "codigo": "P-0401",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 1390000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Smartphone MSI Slim",
+        "codigo": "P-0402",
+        "tipo": "Electrónico",
+        "cantidad": 9,
+        "precio": 2970000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Micrófono USB Trust 4K",
+        "codigo": "P-0403",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 446000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Scanner Havit Lite",
+        "codigo": "P-0404",
+        "tipo": "Periférico",
+        "cantidad": 13,
+        "precio": 443000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Switch 24 puertos Netgear SE",
+        "codigo": "P-0405",
+        "tipo": "Red",
+        "cantidad": 44,
+        "precio": 1500000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Switch 24 puertos Ubiquiti V3",
+        "codigo": "P-0406",
+        "tipo": "Red",
+        "cantidad": 1,
+        "precio": 694000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Mochila Laptop Anker X",
+        "codigo": "P-0407",
+        "tipo": "Accesorio",
+        "cantidad": 3,
+        "precio": 157000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Firewall Hikvision Slim",
+        "codigo": "P-0408",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 2365000,
+        "minimo": 9
+    },
+    {
+        "nombre": "SSD NVMe Seagate HD",
+        "codigo": "P-0409",
+        "tipo": "Almacenamiento",
+        "cantidad": 60,
+        "precio": 418000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Soporte Monitor Orico Max",
+        "codigo": "P-0410",
+        "tipo": "Accesorio",
+        "cantidad": 33,
+        "precio": 172000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Tarjeta SD WD V2",
+        "codigo": "P-0411",
+        "tipo": "Almacenamiento",
+        "cantidad": 15,
+        "precio": 168000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Mouse Corsair SE",
+        "codigo": "P-0412",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 145000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Impresora Láser Kyocera Pro",
+        "codigo": "P-0413",
+        "tipo": "Impresión",
+        "cantidad": 29,
+        "precio": 793000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Firewall Honeywell SE",
+        "codigo": "P-0414",
+        "tipo": "Seguridad",
+        "cantidad": 8,
+        "precio": 4907000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Memoria RAM Seagate Ultra",
+        "codigo": "P-0415",
+        "tipo": "Almacenamiento",
+        "cantidad": 15,
+        "precio": 373000,
+        "minimo": 13
+    },
+    {
+        "nombre": "DVR 8 Canales Hanwha Mini",
+        "codigo": "P-0416",
+        "tipo": "Seguridad",
+        "cantidad": 1,
+        "precio": 612000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Regleta Eléctrica Belkin Lite",
+        "codigo": "P-0417",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 111000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Impresora Inkjet Xerox Pro",
+        "codigo": "P-0418",
+        "tipo": "Impresión",
+        "cantidad": 4,
+        "precio": 731000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Funda Tablet AmazonBasics HD",
+        "codigo": "P-0419",
+        "tipo": "Accesorio",
+        "cantidad": 13,
+        "precio": 59000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Impresora Láser Kyocera Slim",
+        "codigo": "P-0420",
+        "tipo": "Impresión",
+        "cantidad": 54,
+        "precio": 2006000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Control de Acceso Bosch Basic",
+        "codigo": "P-0421",
+        "tipo": "Seguridad",
+        "cantidad": 20,
+        "precio": 998000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Impresora Láser Brother Ultra",
+        "codigo": "P-0422",
+        "tipo": "Impresión",
+        "cantidad": 4,
+        "precio": 1827000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Escritorio Gaming DeskMate Mini",
+        "codigo": "P-0423",
+        "tipo": "Mobiliario",
+        "cantidad": 0,
+        "precio": 1718000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Memoria RAM Toshiba HD",
+        "codigo": "P-0424",
+        "tipo": "Almacenamiento",
+        "cantidad": 20,
+        "precio": 717000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Auriculares Acer Mini",
+        "codigo": "P-0425",
+        "tipo": "Electrónico",
+        "cantidad": 29,
+        "precio": 526000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Office 365 Adobe Ultra",
+        "codigo": "P-0426",
+        "tipo": "Software",
+        "cantidad": 17,
+        "precio": 350000,
+        "minimo": 14
+    },
+    {
+        "nombre": "UPS 1200VA Tripp-Lite Mini",
+        "codigo": "P-0427",
+        "tipo": "Energía",
+        "cantidad": 0,
+        "precio": 1050000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Impresora Inkjet Canon Basic",
+        "codigo": "P-0428",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 658000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Switch 8 puertos Mikrotik Plus",
+        "codigo": "P-0429",
+        "tipo": "Red",
+        "cantidad": 16,
+        "precio": 768000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tóner HP Brother V2",
+        "codigo": "P-0430",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 239000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Smart TV Asus HD",
+        "codigo": "P-0431",
+        "tipo": "Electrónico",
+        "cantidad": 46,
+        "precio": 4319000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Scanner Microsoft Basic",
+        "codigo": "P-0432",
+        "tipo": "Periférico",
+        "cantidad": 6,
+        "precio": 690000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Scanner HyperX V3",
+        "codigo": "P-0433",
+        "tipo": "Periférico",
+        "cantidad": 43,
+        "precio": 470000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Servidor Rack 1U Asus V3",
+        "codigo": "P-0434",
+        "tipo": "Electrónico",
+        "cantidad": 4,
+        "precio": 15402000,
+        "minimo": 13
+    },
+    {
+        "nombre": "UPS 1200VA Forza HD",
+        "codigo": "P-0435",
+        "tipo": "Energía",
+        "cantidad": 30,
+        "precio": 769000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Ugreen Max",
+        "codigo": "P-0436",
+        "tipo": "Accesorio",
+        "cantidad": 39,
+        "precio": 50000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Funda Tablet AmazonBasics Max",
+        "codigo": "P-0437",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 97000,
+        "minimo": 7
+    },
+    {
+        "nombre": "UPS 2000VA CyberPower V3",
+        "codigo": "P-0438",
+        "tipo": "Energía",
+        "cantidad": 1,
+        "precio": 1078000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cartucho Epson Epson Basic",
+        "codigo": "P-0439",
+        "tipo": "Impresión",
+        "cantidad": 12,
+        "precio": 129000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Cable UTP Cat6 Mikrotik Ultra",
+        "codigo": "P-0440",
+        "tipo": "Red",
+        "cantidad": 61,
+        "precio": 32000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Soporte Monitor Cable Matters Lite",
+        "codigo": "P-0441",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 192000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Micrófono USB Corsair V3",
+        "codigo": "P-0442",
+        "tipo": "Periférico",
+        "cantidad": 1,
+        "precio": 459000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Rack 12U TP-Link 4K",
+        "codigo": "P-0443",
+        "tipo": "Red",
+        "cantidad": 63,
+        "precio": 802000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Laptop LG Elite",
+        "codigo": "P-0444",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 4083000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Auriculares HP Basic",
+        "codigo": "P-0445",
+        "tipo": "Electrónico",
+        "cantidad": 39,
+        "precio": 1185000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Base Laptop Orico Pro",
+        "codigo": "P-0446",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 56000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Monitor MSI V3",
+        "codigo": "P-0447",
+        "tipo": "Electrónico",
+        "cantidad": 11,
+        "precio": 1162000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Patch Panel Tenda HD",
+        "codigo": "P-0448",
+        "tipo": "Red",
+        "cantidad": 11,
+        "precio": 211000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Auriculares Asus Basic",
+        "codigo": "P-0449",
+        "tipo": "Electrónico",
+        "cantidad": 65,
+        "precio": 666000,
+        "minimo": 15
+    },
+    {
+        "nombre": "NAS Server WD Max",
+        "codigo": "P-0450",
+        "tipo": "Almacenamiento",
+        "cantidad": 23,
+        "precio": 2863000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Cable Matters 4K",
+        "codigo": "P-0451",
+        "tipo": "Accesorio",
+        "cantidad": 53,
+        "precio": 23000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Funda Tablet Belkin Plus",
+        "codigo": "P-0452",
+        "tipo": "Accesorio",
+        "cantidad": 38,
+        "precio": 148000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Smartphone HP V3",
+        "codigo": "P-0453",
+        "tipo": "Electrónico",
+        "cantidad": 9,
+        "precio": 1601000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Soporte Monitor AmazonBasics Max",
+        "codigo": "P-0454",
+        "tipo": "Accesorio",
+        "cantidad": 72,
+        "precio": 219000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Rack 12U TP-Link Basic",
+        "codigo": "P-0455",
+        "tipo": "Red",
+        "cantidad": 51,
+        "precio": 1082000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Access Point Ubiquiti Pro",
+        "codigo": "P-0456",
+        "tipo": "Red",
+        "cantidad": 46,
+        "precio": 356000,
+        "minimo": 12
+    },
+    {
+        "nombre": "UPS 2000VA Sola Pro",
+        "codigo": "P-0457",
+        "tipo": "Energía",
+        "cantidad": 4,
+        "precio": 1147000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Regulador Voltaje CyberPower HD",
+        "codigo": "P-0458",
+        "tipo": "Energía",
+        "cantidad": 1,
+        "precio": 288000,
+        "minimo": 3
+    },
+    {
+        "nombre": "UPS 2000VA Tripp-Lite V2",
+        "codigo": "P-0459",
+        "tipo": "Energía",
+        "cantidad": 30,
+        "precio": 1887000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Teclado Razer SE",
+        "codigo": "P-0460",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 257000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Impresora Láser Kyocera Plus",
+        "codigo": "P-0461",
+        "tipo": "Impresión",
+        "cantidad": 49,
+        "precio": 2095000,
+        "minimo": 11
+    },
+    {
+        "nombre": "NAS Server SanDisk Pro",
+        "codigo": "P-0462",
+        "tipo": "Almacenamiento",
+        "cantidad": 20,
+        "precio": 3797000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Cable UTP Cat6 D-Link Max",
+        "codigo": "P-0463",
+        "tipo": "Red",
+        "cantidad": 32,
+        "precio": 25000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Proyector Toshiba Ultra",
+        "codigo": "P-0464",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 3818000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tóner HP Epson Mini",
+        "codigo": "P-0465",
+        "tipo": "Impresión",
+        "cantidad": 61,
+        "precio": 267000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Tarjeta SD SanDisk Max",
+        "codigo": "P-0466",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 57000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Orico Max",
+        "codigo": "P-0467",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 35000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Gamepad Genius Lite",
+        "codigo": "P-0468",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 328000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Memoria RAM PNY Plus",
+        "codigo": "P-0469",
+        "tipo": "Almacenamiento",
+        "cantidad": 33,
+        "precio": 512000,
+        "minimo": 15
+    },
+    {
+        "nombre": "SSD NVMe Toshiba HD",
+        "codigo": "P-0470",
+        "tipo": "Almacenamiento",
+        "cantidad": 28,
+        "precio": 366000,
+        "minimo": 13
+    },
+    {
+        "nombre": "UPS 2000VA Eaton Elite",
+        "codigo": "P-0471",
+        "tipo": "Energía",
+        "cantidad": 3,
+        "precio": 2183000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Ugreen Lite",
+        "codigo": "P-0472",
+        "tipo": "Accesorio",
+        "cantidad": 2,
+        "precio": 27000,
+        "minimo": 3
+    },
+    {
+        "nombre": "SSD NVMe Crucial Lite",
+        "codigo": "P-0473",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 358000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Cable Matters Lite",
+        "codigo": "P-0474",
+        "tipo": "Accesorio",
+        "cantidad": 2,
+        "precio": 111000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Teclado SteelSeries Pro",
+        "codigo": "P-0475",
+        "tipo": "Periférico",
+        "cantidad": 19,
+        "precio": 282000,
+        "minimo": 7
+    },
+    {
+        "nombre": "DVR 8 Canales Bosch Lite",
+        "codigo": "P-0476",
+        "tipo": "Seguridad",
+        "cantidad": 16,
+        "precio": 1265000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Ugreen X",
+        "codigo": "P-0477",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 62000,
+        "minimo": 5
+    },
+    {
+        "nombre": "NAS Server SanDisk Ultra",
+        "codigo": "P-0478",
+        "tipo": "Almacenamiento",
+        "cantidad": 49,
+        "precio": 4210000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Cámara IP Dahua Max",
+        "codigo": "P-0479",
+        "tipo": "Seguridad",
+        "cantidad": 18,
+        "precio": 665000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Memoria USB WD Slim",
+        "codigo": "P-0480",
+        "tipo": "Almacenamiento",
+        "cantidad": 22,
+        "precio": 97000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Gamepad A4Tech Pro",
+        "codigo": "P-0481",
+        "tipo": "Periférico",
+        "cantidad": 5,
+        "precio": 356000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Sensor Movimiento Hanwha Plus",
+        "codigo": "P-0482",
+        "tipo": "Seguridad",
+        "cantidad": 52,
+        "precio": 189000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Anker Ultra",
+        "codigo": "P-0483",
+        "tipo": "Accesorio",
+        "cantidad": 16,
+        "precio": 60000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Smart TV Apple X",
+        "codigo": "P-0484",
+        "tipo": "Electrónico",
+        "cantidad": 43,
+        "precio": 3162000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Mini PC LG SE",
+        "codigo": "P-0485",
+        "tipo": "Electrónico",
+        "cantidad": 58,
+        "precio": 925000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Adobe CC Bitdefender SE",
+        "codigo": "P-0486",
+        "tipo": "Software",
+        "cantidad": 13,
+        "precio": 1200000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Base Laptop Ugreen Elite",
+        "codigo": "P-0487",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 220000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Soporte Monitor Cable Matters V2",
+        "codigo": "P-0488",
+        "tipo": "Accesorio",
+        "cantidad": 13,
+        "precio": 177000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Router WiFi Cisco Pro",
+        "codigo": "P-0489",
+        "tipo": "Red",
+        "cantidad": 5,
+        "precio": 280000,
+        "minimo": 6
+    },
+    {
+        "nombre": "UPS 1200VA Eaton V3",
+        "codigo": "P-0490",
+        "tipo": "Energía",
+        "cantidad": 17,
+        "precio": 1069000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Switch 24 puertos Netgear Max",
+        "codigo": "P-0491",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 700000,
+        "minimo": 9
+    },
+    {
+        "nombre": "SSD NVMe WD Plus",
+        "codigo": "P-0492",
+        "tipo": "Almacenamiento",
+        "cantidad": 4,
+        "precio": 425000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Cámara IP Dahua SE",
+        "codigo": "P-0493",
+        "tipo": "Seguridad",
+        "cantidad": 21,
+        "precio": 774000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Cable Matters Lite",
+        "codigo": "P-0494",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 75000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Monitor Samsung V2",
+        "codigo": "P-0495",
+        "tipo": "Electrónico",
+        "cantidad": 59,
+        "precio": 823000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Impresora Inkjet Lexmark Elite",
+        "codigo": "P-0496",
+        "tipo": "Impresión",
+        "cantidad": 2,
+        "precio": 885000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Switch 24 puertos D-Link HD",
+        "codigo": "P-0497",
+        "tipo": "Red",
+        "cantidad": 11,
+        "precio": 1479000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Base Laptop Orico Mini",
+        "codigo": "P-0498",
+        "tipo": "Accesorio",
+        "cantidad": 25,
+        "precio": 62000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Switch 8 puertos Tenda Mini",
+        "codigo": "P-0499",
+        "tipo": "Red",
+        "cantidad": 5,
+        "precio": 224000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Funda Tablet Cable Matters HD",
+        "codigo": "P-0500",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 61000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Licencia Antivirus ESET Elite",
+        "codigo": "P-0501",
+        "tipo": "Software",
+        "cantidad": 1,
+        "precio": 307000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Impresora 3D Xerox 4K",
+        "codigo": "P-0502",
+        "tipo": "Impresión",
+        "cantidad": 30,
+        "precio": 5509000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Regleta Eléctrica Orico X",
+        "codigo": "P-0503",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 85000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Memoria RAM Lexar X",
+        "codigo": "P-0504",
+        "tipo": "Almacenamiento",
+        "cantidad": 66,
+        "precio": 356000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Vention X",
+        "codigo": "P-0505",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 23000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Mouse HyperX Ultra",
+        "codigo": "P-0506",
+        "tipo": "Periférico",
+        "cantidad": 8,
+        "precio": 74000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Patch Panel Tenda Mini",
+        "codigo": "P-0507",
+        "tipo": "Red",
+        "cantidad": 17,
+        "precio": 425000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Gamepad Microsoft V2",
+        "codigo": "P-0508",
+        "tipo": "Periférico",
+        "cantidad": 5,
+        "precio": 208000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Teclado Corsair Max",
+        "codigo": "P-0509",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 310000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Memoria RAM Samsung Lite",
+        "codigo": "P-0510",
+        "tipo": "Almacenamiento",
+        "cantidad": 22,
+        "precio": 319000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Patch Panel Zyxel Mini",
+        "codigo": "P-0511",
+        "tipo": "Red",
+        "cantidad": 37,
+        "precio": 470000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cable UTP Cat6 Netgear Plus",
+        "codigo": "P-0512",
+        "tipo": "Red",
+        "cantidad": 5,
+        "precio": 26000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cartucho Epson HP Ultra",
+        "codigo": "P-0513",
+        "tipo": "Impresión",
+        "cantidad": 8,
+        "precio": 102000,
+        "minimo": 10
+    },
+    {
+        "nombre": "UPS 2000VA Sola HD",
+        "codigo": "P-0514",
+        "tipo": "Energía",
+        "cantidad": 46,
+        "precio": 1794000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Mouse SteelSeries HD",
+        "codigo": "P-0515",
+        "tipo": "Periférico",
+        "cantidad": 49,
+        "precio": 184000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Control de Acceso Hikvision HD",
+        "codigo": "P-0516",
+        "tipo": "Seguridad",
+        "cantidad": 7,
+        "precio": 1283000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cámara Web HyperX Ultra",
+        "codigo": "P-0517",
+        "tipo": "Periférico",
+        "cantidad": 2,
+        "precio": 136000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Switch 8 puertos Cisco HD",
+        "codigo": "P-0518",
+        "tipo": "Red",
+        "cantidad": 23,
+        "precio": 462000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Cable HDMI Ugreen 4K",
+        "codigo": "P-0519",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 72000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Control de Acceso Dahua HD",
+        "codigo": "P-0520",
+        "tipo": "Seguridad",
+        "cantidad": 28,
+        "precio": 501000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Regleta Eléctrica Vention Elite",
+        "codigo": "P-0521",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 76000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tóner HP Kyocera SE",
+        "codigo": "P-0522",
+        "tipo": "Impresión",
+        "cantidad": 20,
+        "precio": 315000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Funda Tablet AmazonBasics Mini",
+        "codigo": "P-0523",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 60000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Cable HDMI AmazonBasics Elite",
+        "codigo": "P-0524",
+        "tipo": "Accesorio",
+        "cantidad": 11,
+        "precio": 49000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Funda Tablet AmazonBasics V2",
+        "codigo": "P-0525",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 145000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Escritorio Gaming ComfortPro V2",
+        "codigo": "P-0526",
+        "tipo": "Mobiliario",
+        "cantidad": 13,
+        "precio": 1428000,
+        "minimo": 8
+    },
+    {
+        "nombre": "NAS Server PNY V3",
+        "codigo": "P-0527",
+        "tipo": "Almacenamiento",
+        "cantidad": 36,
+        "precio": 2339000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Switch 24 puertos Zyxel Max",
+        "codigo": "P-0528",
+        "tipo": "Red",
+        "cantidad": 3,
+        "precio": 1841000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Orico V2",
+        "codigo": "P-0529",
+        "tipo": "Accesorio",
+        "cantidad": 17,
+        "precio": 120000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Cámara IP Axis Mini",
+        "codigo": "P-0530",
+        "tipo": "Seguridad",
+        "cantidad": 39,
+        "precio": 503000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tóner HP Canon 4K",
+        "codigo": "P-0531",
+        "tipo": "Impresión",
+        "cantidad": 11,
+        "precio": 157000,
+        "minimo": 7
+    },
+    {
+        "nombre": "UPS 2000VA Tripp-Lite HD",
+        "codigo": "P-0532",
+        "tipo": "Energía",
+        "cantidad": 14,
+        "precio": 1483000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cámara Web Microsoft Pro",
+        "codigo": "P-0533",
+        "tipo": "Periférico",
+        "cantidad": 8,
+        "precio": 183000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Laptop LG Basic",
+        "codigo": "P-0534",
+        "tipo": "Electrónico",
+        "cantidad": 13,
+        "precio": 4320000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Micrófono USB SteelSeries Plus",
+        "codigo": "P-0535",
+        "tipo": "Periférico",
+        "cantidad": 3,
+        "precio": 515000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Base Laptop Cable Matters Elite",
+        "codigo": "P-0536",
+        "tipo": "Accesorio",
+        "cantidad": 22,
+        "precio": 68000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Router WiFi Cisco V3",
+        "codigo": "P-0537",
+        "tipo": "Red",
+        "cantidad": 1,
+        "precio": 277000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Teclado Havit Basic",
+        "codigo": "P-0538",
+        "tipo": "Periférico",
+        "cantidad": 12,
+        "precio": 345000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cable HDMI Ugreen 4K",
+        "codigo": "P-0539",
+        "tipo": "Accesorio",
+        "cantidad": 23,
+        "precio": 33000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Access Point Cisco Basic",
+        "codigo": "P-0540",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 672000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cámara Web Trust Max",
+        "codigo": "P-0541",
+        "tipo": "Periférico",
+        "cantidad": 8,
+        "precio": 273000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Soporte Monitor Cable Matters Elite",
+        "codigo": "P-0542",
+        "tipo": "Accesorio",
+        "cantidad": 49,
+        "precio": 92000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Soporte Monitor Anker Lite",
+        "codigo": "P-0543",
+        "tipo": "Accesorio",
+        "cantidad": 12,
+        "precio": 164000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Auriculares LG X",
+        "codigo": "P-0544",
+        "tipo": "Electrónico",
+        "cantidad": 2,
+        "precio": 1056000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Teclado Razer X",
+        "codigo": "P-0545",
+        "tipo": "Periférico",
+        "cantidad": 17,
+        "precio": 276000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Cámara IP Dahua Basic",
+        "codigo": "P-0546",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 563000,
+        "minimo": 12
+    },
+    {
+        "nombre": "UPS 1200VA Eaton X",
+        "codigo": "P-0547",
+        "tipo": "Energía",
+        "cantidad": 28,
+        "precio": 1102000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Monitor Acer Basic",
+        "codigo": "P-0548",
+        "tipo": "Electrónico",
+        "cantidad": 36,
+        "precio": 1660000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Cartucho Epson Xerox Pro",
+        "codigo": "P-0549",
+        "tipo": "Impresión",
+        "cantidad": 24,
+        "precio": 106000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cable UTP Cat6 Cisco SE",
+        "codigo": "P-0550",
+        "tipo": "Red",
+        "cantidad": 11,
+        "precio": 8000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tarjeta SD Transcend Mini",
+        "codigo": "P-0551",
+        "tipo": "Almacenamiento",
+        "cantidad": 40,
+        "precio": 123000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Limpiador Pantalla Belkin Pro",
+        "codigo": "P-0552",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 16000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Mini PC HP HD",
+        "codigo": "P-0553",
+        "tipo": "Electrónico",
+        "cantidad": 9,
+        "precio": 1665000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Limpiador Pantalla Orico Mini",
+        "codigo": "P-0554",
+        "tipo": "Accesorio",
+        "cantidad": 11,
+        "precio": 37000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Silla Ergonómica FlexiDesk Ultra",
+        "codigo": "P-0555",
+        "tipo": "Mobiliario",
+        "cantidad": 0,
+        "precio": 621000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Servidor Rack 1U Asus HD",
+        "codigo": "P-0556",
+        "tipo": "Electrónico",
+        "cantidad": 2,
+        "precio": 8045000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Cable Matters Mini",
+        "codigo": "P-0557",
+        "tipo": "Accesorio",
+        "cantidad": 4,
+        "precio": 64000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Proyector LG Plus",
+        "codigo": "P-0558",
+        "tipo": "Electrónico",
+        "cantidad": 30,
+        "precio": 5514000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Base Laptop Cable Matters V2",
+        "codigo": "P-0559",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 99000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Teclado Logitech Elite",
+        "codigo": "P-0560",
+        "tipo": "Periférico",
+        "cantidad": 32,
+        "precio": 334000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Control de Acceso Hanwha Ultra",
+        "codigo": "P-0561",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 721000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Limpiador Pantalla AmazonBasics Ultra",
+        "codigo": "P-0562",
+        "tipo": "Accesorio",
+        "cantidad": 35,
+        "precio": 19000,
+        "minimo": 14
+    },
+    {
+        "nombre": "DVR 8 Canales Honeywell Ultra",
+        "codigo": "P-0563",
+        "tipo": "Seguridad",
+        "cantidad": 1,
+        "precio": 1652000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cable UTP Cat6 Zyxel SE",
+        "codigo": "P-0564",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 19000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Memoria USB Seagate Ultra",
+        "codigo": "P-0565",
+        "tipo": "Almacenamiento",
+        "cantidad": 18,
+        "precio": 38000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Impresora Láser Xerox SE",
+        "codigo": "P-0566",
+        "tipo": "Impresión",
+        "cantidad": 2,
+        "precio": 710000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Impresora Inkjet HP Lite",
+        "codigo": "P-0567",
+        "tipo": "Impresión",
+        "cantidad": 19,
+        "precio": 692000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Mini PC HP SE",
+        "codigo": "P-0568",
+        "tipo": "Electrónico",
+        "cantidad": 39,
+        "precio": 2494000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Impresora Láser Canon Basic",
+        "codigo": "P-0569",
+        "tipo": "Impresión",
+        "cantidad": 2,
+        "precio": 2404000,
+        "minimo": 13
+    },
+    {
+        "nombre": "UPS 2000VA Forza Plus",
+        "codigo": "P-0570",
+        "tipo": "Energía",
+        "cantidad": 23,
+        "precio": 1808000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Impresora Láser Kyocera SE",
+        "codigo": "P-0571",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 888000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Switch 24 puertos Ubiquiti HD",
+        "codigo": "P-0572",
+        "tipo": "Red",
+        "cantidad": 5,
+        "precio": 2380000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Switch 24 puertos TP-Link Max",
+        "codigo": "P-0573",
+        "tipo": "Red",
+        "cantidad": 15,
+        "precio": 1060000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Mochila Laptop Vention Basic",
+        "codigo": "P-0574",
+        "tipo": "Accesorio",
+        "cantidad": 22,
+        "precio": 357000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Limpiador Pantalla AmazonBasics Basic",
+        "codigo": "P-0575",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 27000,
+        "minimo": 4
+    },
+    {
+        "nombre": "SSD NVMe Samsung Basic",
+        "codigo": "P-0576",
+        "tipo": "Almacenamiento",
+        "cantidad": 29,
+        "precio": 834000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Licencia AutoCAD Microsoft Max",
+        "codigo": "P-0577",
+        "tipo": "Software",
+        "cantidad": 68,
+        "precio": 2800000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Mochila Laptop Cable Matters Ultra",
+        "codigo": "P-0578",
+        "tipo": "Accesorio",
+        "cantidad": 12,
+        "precio": 173000,
+        "minimo": 5
+    },
+    {
+        "nombre": "SSD NVMe Lexar Pro",
+        "codigo": "P-0579",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 425000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Servidor Rack 1U Asus Slim",
+        "codigo": "P-0580",
+        "tipo": "Electrónico",
+        "cantidad": 31,
+        "precio": 14015000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Switch 24 puertos Cisco X",
+        "codigo": "P-0581",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 845000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Control de Acceso Honeywell Plus",
+        "codigo": "P-0582",
+        "tipo": "Seguridad",
+        "cantidad": 16,
+        "precio": 507000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Impresora Inkjet Canon Ultra",
+        "codigo": "P-0583",
+        "tipo": "Impresión",
+        "cantidad": 67,
+        "precio": 642000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Mochila Laptop Ugreen Max",
+        "codigo": "P-0584",
+        "tipo": "Accesorio",
+        "cantidad": 2,
+        "precio": 351000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Teclado Havit Plus",
+        "codigo": "P-0585",
+        "tipo": "Periférico",
+        "cantidad": 2,
+        "precio": 159000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Disco SSD Toshiba Plus",
+        "codigo": "P-0586",
+        "tipo": "Almacenamiento",
+        "cantidad": 13,
+        "precio": 748000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Switch 8 puertos Ubiquiti Lite",
+        "codigo": "P-0587",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 491000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Micrófono USB SteelSeries 4K",
+        "codigo": "P-0588",
+        "tipo": "Periférico",
+        "cantidad": 26,
+        "precio": 540000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Sensor Movimiento Bosch Elite",
+        "codigo": "P-0589",
+        "tipo": "Seguridad",
+        "cantidad": 6,
+        "precio": 108000,
+        "minimo": 13
+    },
+    {
+        "nombre": "NAS Server PNY Pro",
+        "codigo": "P-0590",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 3973000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Monitor LG 4K",
+        "codigo": "P-0591",
+        "tipo": "Electrónico",
+        "cantidad": 25,
+        "precio": 1526000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cámara Web Microsoft Plus",
+        "codigo": "P-0592",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 191000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Sensor Movimiento Dahua Elite",
+        "codigo": "P-0593",
+        "tipo": "Seguridad",
+        "cantidad": 58,
+        "precio": 135000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Escritorio Gaming DeskMate Plus",
+        "codigo": "P-0594",
+        "tipo": "Mobiliario",
+        "cantidad": 2,
+        "precio": 1772000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Monitor Dell Basic",
+        "codigo": "P-0595",
+        "tipo": "Electrónico",
+        "cantidad": 20,
+        "precio": 2448000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Proyector Samsung Plus",
+        "codigo": "P-0596",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 2149000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Mini PC Toshiba Mini",
+        "codigo": "P-0597",
+        "tipo": "Electrónico",
+        "cantidad": 14,
+        "precio": 2532000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tarjeta SD Toshiba Elite",
+        "codigo": "P-0598",
+        "tipo": "Almacenamiento",
+        "cantidad": 13,
+        "precio": 120000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Tóner HP Brother Slim",
+        "codigo": "P-0599",
+        "tipo": "Impresión",
+        "cantidad": 5,
+        "precio": 123000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Soporte Monitor Ugreen Lite",
+        "codigo": "P-0600",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 180000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Tóner HP Brother Elite",
+        "codigo": "P-0601",
+        "tipo": "Impresión",
+        "cantidad": 21,
+        "precio": 192000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Impresora Inkjet Xerox HD",
+        "codigo": "P-0602",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 876000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Tarjeta SD SanDisk Lite",
+        "codigo": "P-0603",
+        "tipo": "Almacenamiento",
+        "cantidad": 50,
+        "precio": 169000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Patch Panel Mikrotik Mini",
+        "codigo": "P-0604",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 258000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Regleta Eléctrica Anker Pro",
+        "codigo": "P-0605",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 70000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Rack 12U Mikrotik HD",
+        "codigo": "P-0606",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 1126000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Base Laptop Anker Ultra",
+        "codigo": "P-0607",
+        "tipo": "Accesorio",
+        "cantidad": 62,
+        "precio": 191000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Smartphone Asus X",
+        "codigo": "P-0608",
+        "tipo": "Electrónico",
+        "cantidad": 34,
+        "precio": 2490000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Gamepad Corsair Basic",
+        "codigo": "P-0609",
+        "tipo": "Periférico",
+        "cantidad": 36,
+        "precio": 282000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Servidor Rack 1U Toshiba Pro",
+        "codigo": "P-0610",
+        "tipo": "Electrónico",
+        "cantidad": 49,
+        "precio": 17025000,
+        "minimo": 13
+    },
+    {
+        "nombre": "UPS 2000VA CyberPower X",
+        "codigo": "P-0611",
+        "tipo": "Energía",
+        "cantidad": 71,
+        "precio": 1165000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Cable UTP Cat6 Ubiquiti Elite",
+        "codigo": "P-0612",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 23000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Impresora Láser Lexmark Basic",
+        "codigo": "P-0613",
+        "tipo": "Impresión",
+        "cantidad": 31,
+        "precio": 781000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Servidor Rack 1U Toshiba Basic",
+        "codigo": "P-0614",
+        "tipo": "Electrónico",
+        "cantidad": 32,
+        "precio": 7637000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Licencia Office 365 Bitdefender Max",
+        "codigo": "P-0615",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 350000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cable DisplayPort Anker HD",
+        "codigo": "P-0616",
+        "tipo": "Accesorio",
+        "cantidad": 38,
+        "precio": 36000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Smart TV Samsung V3",
+        "codigo": "P-0617",
+        "tipo": "Electrónico",
+        "cantidad": 29,
+        "precio": 3912000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Ugreen Elite",
+        "codigo": "P-0618",
+        "tipo": "Accesorio",
+        "cantidad": 63,
+        "precio": 28000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Escritorio Gaming OfficePlus V2",
+        "codigo": "P-0619",
+        "tipo": "Mobiliario",
+        "cantidad": 15,
+        "precio": 1229000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Impresora Láser Xerox X",
+        "codigo": "P-0620",
+        "tipo": "Impresión",
+        "cantidad": 6,
+        "precio": 1418000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Cartucho Epson Epson Elite",
+        "codigo": "P-0621",
+        "tipo": "Impresión",
+        "cantidad": 38,
+        "precio": 45000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Licencia Office 365 Bitdefender X",
+        "codigo": "P-0622",
+        "tipo": "Software",
+        "cantidad": 11,
+        "precio": 350000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Escritorio Gaming ErgoChair Plus",
+        "codigo": "P-0623",
+        "tipo": "Mobiliario",
+        "cantidad": 1,
+        "precio": 1596000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Impresora Inkjet Canon Max",
+        "codigo": "P-0624",
+        "tipo": "Impresión",
+        "cantidad": 17,
+        "precio": 491000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Control de Acceso Hanwha V2",
+        "codigo": "P-0625",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 1067000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Scanner HyperX V3",
+        "codigo": "P-0626",
+        "tipo": "Periférico",
+        "cantidad": 1,
+        "precio": 419000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Belkin Pro",
+        "codigo": "P-0627",
+        "tipo": "Accesorio",
+        "cantidad": 19,
+        "precio": 84000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Licencia AutoCAD Kaspersky Lite",
+        "codigo": "P-0628",
+        "tipo": "Software",
+        "cantidad": 10,
+        "precio": 2800000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Sensor Movimiento Honeywell HD",
+        "codigo": "P-0629",
+        "tipo": "Seguridad",
+        "cantidad": 26,
+        "precio": 232000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Micrófono USB Microsoft Plus",
+        "codigo": "P-0630",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 589000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Monitor Samsung Ultra",
+        "codigo": "P-0631",
+        "tipo": "Electrónico",
+        "cantidad": 2,
+        "precio": 814000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Micrófono USB Razer SE",
+        "codigo": "P-0632",
+        "tipo": "Periférico",
+        "cantidad": 2,
+        "precio": 639000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cable DisplayPort Belkin Mini",
+        "codigo": "P-0633",
+        "tipo": "Accesorio",
+        "cantidad": 21,
+        "precio": 43000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Smartphone Dell Max",
+        "codigo": "P-0634",
+        "tipo": "Electrónico",
+        "cantidad": 22,
+        "precio": 1741000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Cable Matters SE",
+        "codigo": "P-0635",
+        "tipo": "Accesorio",
+        "cantidad": 4,
+        "precio": 68000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cámara Web Logitech Mini",
+        "codigo": "P-0636",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 371000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Laptop LG Plus",
+        "codigo": "P-0637",
+        "tipo": "Electrónico",
+        "cantidad": 53,
+        "precio": 2706000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Access Point D-Link Plus",
+        "codigo": "P-0638",
+        "tipo": "Red",
+        "cantidad": 3,
+        "precio": 306000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Proyector Apple 4K",
+        "codigo": "P-0639",
+        "tipo": "Electrónico",
+        "cantidad": 21,
+        "precio": 2746000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Cable UTP Cat6 Ubiquiti Plus",
+        "codigo": "P-0640",
+        "tipo": "Red",
+        "cantidad": 33,
+        "precio": 28000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Licencia AutoCAD Kaspersky Max",
+        "codigo": "P-0641",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 2800000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Switch 8 puertos Zyxel Ultra",
+        "codigo": "P-0642",
+        "tipo": "Red",
+        "cantidad": 1,
+        "precio": 451000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Auriculares Dell Plus",
+        "codigo": "P-0643",
+        "tipo": "Electrónico",
+        "cantidad": 62,
+        "precio": 854000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Regulador Voltaje CyberPower SE",
+        "codigo": "P-0644",
+        "tipo": "Energía",
+        "cantidad": 48,
+        "precio": 116000,
+        "minimo": 15
+    },
+    {
+        "nombre": "SSD NVMe PNY V2",
+        "codigo": "P-0645",
+        "tipo": "Almacenamiento",
+        "cantidad": 41,
+        "precio": 766000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Belkin Mini",
+        "codigo": "P-0646",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 63000,
+        "minimo": 2
+    },
+    {
+        "nombre": "DVR 8 Canales Axis V2",
+        "codigo": "P-0647",
+        "tipo": "Seguridad",
+        "cantidad": 10,
+        "precio": 881000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Gamepad Corsair Basic",
+        "codigo": "P-0648",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 218000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Proyector LG Basic",
+        "codigo": "P-0649",
+        "tipo": "Electrónico",
+        "cantidad": 35,
+        "precio": 3011000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Servidor Rack 1U Dell Plus",
+        "codigo": "P-0650",
+        "tipo": "Electrónico",
+        "cantidad": 30,
+        "precio": 11858000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Licencia Office 365 Autodesk SE",
+        "codigo": "P-0651",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 350000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Cable HDMI Vention X",
+        "codigo": "P-0652",
+        "tipo": "Accesorio",
+        "cantidad": 40,
+        "precio": 84000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Auriculares Lenovo X",
+        "codigo": "P-0653",
+        "tipo": "Electrónico",
+        "cantidad": 4,
+        "precio": 355000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cámara IP Bosch 4K",
+        "codigo": "P-0654",
+        "tipo": "Seguridad",
+        "cantidad": 15,
+        "precio": 828000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tarjeta SD Lexar X",
+        "codigo": "P-0655",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 151000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Auriculares Toshiba X",
+        "codigo": "P-0656",
+        "tipo": "Electrónico",
+        "cantidad": 7,
+        "precio": 972000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cable HDMI Anker Pro",
+        "codigo": "P-0657",
+        "tipo": "Accesorio",
+        "cantidad": 6,
+        "precio": 78000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco HDD Crucial Ultra",
+        "codigo": "P-0658",
+        "tipo": "Almacenamiento",
+        "cantidad": 59,
+        "precio": 293000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Hub USB-C Belkin 4K",
+        "codigo": "P-0659",
+        "tipo": "Accesorio",
+        "cantidad": 3,
+        "precio": 211000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Switch 8 puertos Mikrotik Ultra",
+        "codigo": "P-0660",
+        "tipo": "Red",
+        "cantidad": 23,
+        "precio": 646000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Switch 8 puertos D-Link Slim",
+        "codigo": "P-0661",
+        "tipo": "Red",
+        "cantidad": 46,
+        "precio": 636000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Licencia Antivirus Autodesk 4K",
+        "codigo": "P-0662",
+        "tipo": "Software",
+        "cantidad": 14,
+        "precio": 148000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Cable Matters SE",
+        "codigo": "P-0663",
+        "tipo": "Accesorio",
+        "cantidad": 20,
+        "precio": 43000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia AutoCAD ESET Pro",
+        "codigo": "P-0664",
+        "tipo": "Software",
+        "cantidad": 11,
+        "precio": 2800000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Sensor Movimiento Hikvision Basic",
+        "codigo": "P-0665",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 93000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Memoria USB Kingston Ultra",
+        "codigo": "P-0666",
+        "tipo": "Almacenamiento",
+        "cantidad": 40,
+        "precio": 72000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Escritorio Gaming Ergonómix V2",
+        "codigo": "P-0667",
+        "tipo": "Mobiliario",
+        "cantidad": 24,
+        "precio": 642000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Switch 8 puertos Netgear 4K",
+        "codigo": "P-0668",
+        "tipo": "Red",
+        "cantidad": 33,
+        "precio": 705000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Micrófono USB SteelSeries V3",
+        "codigo": "P-0669",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 605000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Monitor LG Pro",
+        "codigo": "P-0670",
+        "tipo": "Electrónico",
+        "cantidad": 28,
+        "precio": 933000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Licencia Office 365 Adobe V2",
+        "codigo": "P-0671",
+        "tipo": "Software",
+        "cantidad": 11,
+        "precio": 350000,
+        "minimo": 12
+    },
+    {
+        "nombre": "SSD NVMe PNY Pro",
+        "codigo": "P-0672",
+        "tipo": "Almacenamiento",
+        "cantidad": 20,
+        "precio": 289000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Regleta Eléctrica AmazonBasics Pro",
+        "codigo": "P-0673",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 63000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Cable DisplayPort Cable Matters V2",
+        "codigo": "P-0674",
+        "tipo": "Accesorio",
+        "cantidad": 30,
+        "precio": 57000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Switch 24 puertos Ubiquiti Basic",
+        "codigo": "P-0675",
+        "tipo": "Red",
+        "cantidad": 25,
+        "precio": 1605000,
+        "minimo": 6
+    },
+    {
+        "nombre": "NAS Server Transcend Plus",
+        "codigo": "P-0676",
+        "tipo": "Almacenamiento",
+        "cantidad": 33,
+        "precio": 1230000,
+        "minimo": 10
+    },
+    {
+        "nombre": "UPS 1200VA Sola X",
+        "codigo": "P-0677",
+        "tipo": "Energía",
+        "cantidad": 1,
+        "precio": 1103000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Access Point Cisco Max",
+        "codigo": "P-0678",
+        "tipo": "Red",
+        "cantidad": 5,
+        "precio": 563000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Impresora 3D Xerox V3",
+        "codigo": "P-0679",
+        "tipo": "Impresión",
+        "cantidad": 5,
+        "precio": 6836000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Funda Tablet Anker Slim",
+        "codigo": "P-0680",
+        "tipo": "Accesorio",
+        "cantidad": 65,
+        "precio": 59000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Regleta Eléctrica Orico V2",
+        "codigo": "P-0681",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 75000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Monitor Apple Ultra",
+        "codigo": "P-0682",
+        "tipo": "Electrónico",
+        "cantidad": 10,
+        "precio": 1131000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Regulador Voltaje Sola X",
+        "codigo": "P-0683",
+        "tipo": "Energía",
+        "cantidad": 14,
+        "precio": 182000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Hub USB-C Vention V2",
+        "codigo": "P-0684",
+        "tipo": "Accesorio",
+        "cantidad": 31,
+        "precio": 338000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Licencia Office 365 Adobe 4K",
+        "codigo": "P-0685",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 350000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Teclado SteelSeries V3",
+        "codigo": "P-0686",
+        "tipo": "Periférico",
+        "cantidad": 57,
+        "precio": 366000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Adobe CC Autodesk V2",
+        "codigo": "P-0687",
+        "tipo": "Software",
+        "cantidad": 14,
+        "precio": 1200000,
+        "minimo": 5
+    },
+    {
+        "nombre": "SSD NVMe SanDisk Max",
+        "codigo": "P-0688",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 546000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Access Point TP-Link 4K",
+        "codigo": "P-0689",
+        "tipo": "Red",
+        "cantidad": 50,
+        "precio": 929000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Smart TV Apple Slim",
+        "codigo": "P-0690",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 1996000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Hub USB-C Orico SE",
+        "codigo": "P-0691",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 247000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia Office 365 Adobe Elite",
+        "codigo": "P-0692",
+        "tipo": "Software",
+        "cantidad": 25,
+        "precio": 350000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Licencia Adobe CC Kaspersky Elite",
+        "codigo": "P-0693",
+        "tipo": "Software",
+        "cantidad": 64,
+        "precio": 1200000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Proyector Apple Max",
+        "codigo": "P-0694",
+        "tipo": "Electrónico",
+        "cantidad": 7,
+        "precio": 3248000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Switch 8 puertos Ubiquiti Basic",
+        "codigo": "P-0695",
+        "tipo": "Red",
+        "cantidad": 42,
+        "precio": 392000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Cámara IP Hikvision Elite",
+        "codigo": "P-0696",
+        "tipo": "Seguridad",
+        "cantidad": 33,
+        "precio": 909000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Router WiFi Zyxel Mini",
+        "codigo": "P-0697",
+        "tipo": "Red",
+        "cantidad": 7,
+        "precio": 184000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Laptop Samsung HD",
+        "codigo": "P-0698",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 3675000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Laptop Asus Basic",
+        "codigo": "P-0699",
+        "tipo": "Electrónico",
+        "cantidad": 1,
+        "precio": 4340000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tarjeta SD PNY X",
+        "codigo": "P-0700",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 108000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Tablet Acer Ultra",
+        "codigo": "P-0701",
+        "tipo": "Electrónico",
+        "cantidad": 46,
+        "precio": 1733000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Disco HDD Toshiba Slim",
+        "codigo": "P-0702",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 501000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Memoria RAM Kingston Elite",
+        "codigo": "P-0703",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 593000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Scanner Logitech X",
+        "codigo": "P-0704",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 866000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Cable DisplayPort Cable Matters HD",
+        "codigo": "P-0705",
+        "tipo": "Accesorio",
+        "cantidad": 24,
+        "precio": 26000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Limpiador Pantalla Vention X",
+        "codigo": "P-0706",
+        "tipo": "Accesorio",
+        "cantidad": 53,
+        "precio": 15000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Cámara Web Logitech Pro",
+        "codigo": "P-0707",
+        "tipo": "Periférico",
+        "cantidad": 15,
+        "precio": 179000,
+        "minimo": 8
+    },
+    {
+        "nombre": "UPS 1200VA Forza Lite",
+        "codigo": "P-0708",
+        "tipo": "Energía",
+        "cantidad": 3,
+        "precio": 1198000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Escritorio Gaming Ergonómix Ultra",
+        "codigo": "P-0709",
+        "tipo": "Mobiliario",
+        "cantidad": 0,
+        "precio": 1441000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Rack 12U Ubiquiti X",
+        "codigo": "P-0710",
+        "tipo": "Red",
+        "cantidad": 14,
+        "precio": 930000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Patch Panel Cisco Ultra",
+        "codigo": "P-0711",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 178000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Lápiz Digitalizador Havit Basic",
+        "codigo": "P-0712",
+        "tipo": "Periférico",
+        "cantidad": 12,
+        "precio": 289000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Memoria RAM Toshiba Ultra",
+        "codigo": "P-0713",
+        "tipo": "Almacenamiento",
+        "cantidad": 5,
+        "precio": 344000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cable HDMI Orico Max",
+        "codigo": "P-0714",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 48000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Proyector Dell 4K",
+        "codigo": "P-0715",
+        "tipo": "Electrónico",
+        "cantidad": 20,
+        "precio": 5847000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Smart TV Dell Slim",
+        "codigo": "P-0716",
+        "tipo": "Electrónico",
+        "cantidad": 5,
+        "precio": 2248000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Impresora 3D Brother Pro",
+        "codigo": "P-0717",
+        "tipo": "Impresión",
+        "cantidad": 1,
+        "precio": 2317000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Licencia Office 365 Autodesk Max",
+        "codigo": "P-0718",
+        "tipo": "Software",
+        "cantidad": 14,
+        "precio": 350000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia Office 365 Bitdefender Slim",
+        "codigo": "P-0719",
+        "tipo": "Software",
+        "cantidad": 4,
+        "precio": 350000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Disco HDD SanDisk Slim",
+        "codigo": "P-0720",
+        "tipo": "Almacenamiento",
+        "cantidad": 2,
+        "precio": 374000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Memoria USB SanDisk Elite",
+        "codigo": "P-0721",
+        "tipo": "Almacenamiento",
+        "cantidad": 37,
+        "precio": 39000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tóner HP Kyocera Mini",
+        "codigo": "P-0722",
+        "tipo": "Impresión",
+        "cantidad": 41,
+        "precio": 261000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Soporte Monitor AmazonBasics Elite",
+        "codigo": "P-0723",
+        "tipo": "Accesorio",
+        "cantidad": 5,
+        "precio": 103000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia Office 365 Adobe Plus",
+        "codigo": "P-0724",
+        "tipo": "Software",
+        "cantidad": 47,
+        "precio": 350000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Hub USB-C Orico Elite",
+        "codigo": "P-0725",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 289000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Antivirus Norton Slim",
+        "codigo": "P-0726",
+        "tipo": "Software",
+        "cantidad": 16,
+        "precio": 186000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Licencia AutoCAD Kaspersky Lite",
+        "codigo": "P-0727",
+        "tipo": "Software",
+        "cantidad": 2,
+        "precio": 2800000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Laptop MSI HD",
+        "codigo": "P-0728",
+        "tipo": "Electrónico",
+        "cantidad": 55,
+        "precio": 3861000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Licencia Antivirus Autodesk SE",
+        "codigo": "P-0729",
+        "tipo": "Software",
+        "cantidad": 19,
+        "precio": 387000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Router WiFi D-Link Lite",
+        "codigo": "P-0730",
+        "tipo": "Red",
+        "cantidad": 36,
+        "precio": 534000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Auriculares MSI Slim",
+        "codigo": "P-0731",
+        "tipo": "Electrónico",
+        "cantidad": 4,
+        "precio": 261000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Patch Panel Zyxel 4K",
+        "codigo": "P-0732",
+        "tipo": "Red",
+        "cantidad": 13,
+        "precio": 373000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Cable UTP Cat6 Mikrotik Basic",
+        "codigo": "P-0733",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 18000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Impresora Láser Lexmark V2",
+        "codigo": "P-0734",
+        "tipo": "Impresión",
+        "cantidad": 13,
+        "precio": 2250000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Switch 24 puertos Zyxel HD",
+        "codigo": "P-0735",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 1823000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cable UTP Cat6 Zyxel Max",
+        "codigo": "P-0736",
+        "tipo": "Red",
+        "cantidad": 10,
+        "precio": 11000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cámara Web Genius Mini",
+        "codigo": "P-0737",
+        "tipo": "Periférico",
+        "cantidad": 15,
+        "precio": 138000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cámara IP Axis X",
+        "codigo": "P-0738",
+        "tipo": "Seguridad",
+        "cantidad": 23,
+        "precio": 932000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Scanner Microsoft Max",
+        "codigo": "P-0739",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 722000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Impresora Láser Kyocera Lite",
+        "codigo": "P-0740",
+        "tipo": "Impresión",
+        "cantidad": 48,
+        "precio": 2059000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Access Point Mikrotik V3",
+        "codigo": "P-0741",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 743000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Base Laptop Anker Pro",
+        "codigo": "P-0742",
+        "tipo": "Accesorio",
+        "cantidad": 32,
+        "precio": 142000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Cartucho Epson Lexmark SE",
+        "codigo": "P-0743",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 140000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Licencia Adobe CC Adobe Lite",
+        "codigo": "P-0744",
+        "tipo": "Software",
+        "cantidad": 61,
+        "precio": 1200000,
+        "minimo": 15
+    },
+    {
+        "nombre": "SSD NVMe WD Ultra",
+        "codigo": "P-0745",
+        "tipo": "Almacenamiento",
+        "cantidad": 4,
+        "precio": 905000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Scanner Microsoft 4K",
+        "codigo": "P-0746",
+        "tipo": "Periférico",
+        "cantidad": 7,
+        "precio": 545000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tablet Toshiba Plus",
+        "codigo": "P-0747",
+        "tipo": "Electrónico",
+        "cantidad": 41,
+        "precio": 1722000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Teclado Microsoft Pro",
+        "codigo": "P-0748",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 351000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Mini PC LG 4K",
+        "codigo": "P-0749",
+        "tipo": "Electrónico",
+        "cantidad": 20,
+        "precio": 2048000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cable HDMI Vention Elite",
+        "codigo": "P-0750",
+        "tipo": "Accesorio",
+        "cantidad": 12,
+        "precio": 34000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Regleta Eléctrica Ugreen SE",
+        "codigo": "P-0751",
+        "tipo": "Accesorio",
+        "cantidad": 23,
+        "precio": 84000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tóner HP Brother Max",
+        "codigo": "P-0752",
+        "tipo": "Impresión",
+        "cantidad": 17,
+        "precio": 160000,
+        "minimo": 9
+    },
+    {
+        "nombre": "SSD NVMe Transcend V3",
+        "codigo": "P-0753",
+        "tipo": "Almacenamiento",
+        "cantidad": 23,
+        "precio": 804000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Licencia Antivirus Autodesk V3",
+        "codigo": "P-0754",
+        "tipo": "Software",
+        "cantidad": 4,
+        "precio": 403000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Silla Ergonómica DeskMate Ultra",
+        "codigo": "P-0755",
+        "tipo": "Mobiliario",
+        "cantidad": 0,
+        "precio": 1157000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cable DisplayPort Cable Matters Elite",
+        "codigo": "P-0756",
+        "tipo": "Accesorio",
+        "cantidad": 30,
+        "precio": 86000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cable DisplayPort Belkin HD",
+        "codigo": "P-0757",
+        "tipo": "Accesorio",
+        "cantidad": 46,
+        "precio": 67000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Base Laptop Cable Matters Mini",
+        "codigo": "P-0758",
+        "tipo": "Accesorio",
+        "cantidad": 19,
+        "precio": 191000,
+        "minimo": 6
+    },
+    {
+        "nombre": "DVR 8 Canales Hikvision SE",
+        "codigo": "P-0759",
+        "tipo": "Seguridad",
+        "cantidad": 2,
+        "precio": 798000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Base Laptop Belkin Basic",
+        "codigo": "P-0760",
+        "tipo": "Accesorio",
+        "cantidad": 32,
+        "precio": 123000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Hub USB-C Ugreen Elite",
+        "codigo": "P-0761",
+        "tipo": "Accesorio",
+        "cantidad": 26,
+        "precio": 126000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Funda Tablet Vention Pro",
+        "codigo": "P-0762",
+        "tipo": "Accesorio",
+        "cantidad": 54,
+        "precio": 136000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Licencia Antivirus Norton V3",
+        "codigo": "P-0763",
+        "tipo": "Software",
+        "cantidad": 11,
+        "precio": 407000,
+        "minimo": 15
+    },
+    {
+        "nombre": "UPS 1200VA Tripp-Lite Basic",
+        "codigo": "P-0764",
+        "tipo": "Energía",
+        "cantidad": 58,
+        "precio": 1003000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Cartucho Epson Xerox V2",
+        "codigo": "P-0765",
+        "tipo": "Impresión",
+        "cantidad": 28,
+        "precio": 57000,
+        "minimo": 8
+    },
+    {
+        "nombre": "UPS 1200VA APC Pro",
+        "codigo": "P-0766",
+        "tipo": "Energía",
+        "cantidad": 19,
+        "precio": 737000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Sensor Movimiento Dahua Slim",
+        "codigo": "P-0767",
+        "tipo": "Seguridad",
+        "cantidad": 36,
+        "precio": 247000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Funda Tablet Vention SE",
+        "codigo": "P-0768",
+        "tipo": "Accesorio",
+        "cantidad": 26,
+        "precio": 95000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Cartucho Epson Brother Elite",
+        "codigo": "P-0769",
+        "tipo": "Impresión",
+        "cantidad": 20,
+        "precio": 64000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Mouse Genius Pro",
+        "codigo": "P-0770",
+        "tipo": "Periférico",
+        "cantidad": 10,
+        "precio": 154000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Micrófono USB Havit 4K",
+        "codigo": "P-0771",
+        "tipo": "Periférico",
+        "cantidad": 1,
+        "precio": 310000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Tablet Lenovo Slim",
+        "codigo": "P-0772",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 1460000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Mini PC Toshiba 4K",
+        "codigo": "P-0773",
+        "tipo": "Electrónico",
+        "cantidad": 24,
+        "precio": 2205000,
+        "minimo": 6
+    },
+    {
+        "nombre": "UPS 1200VA Forza Plus",
+        "codigo": "P-0774",
+        "tipo": "Energía",
+        "cantidad": 3,
+        "precio": 805000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Rack 12U Cisco HD",
+        "codigo": "P-0775",
+        "tipo": "Red",
+        "cantidad": 16,
+        "precio": 1684000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Proyector Samsung Basic",
+        "codigo": "P-0776",
+        "tipo": "Electrónico",
+        "cantidad": 6,
+        "precio": 3547000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cartucho Epson Epson HD",
+        "codigo": "P-0777",
+        "tipo": "Impresión",
+        "cantidad": 9,
+        "precio": 180000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Mouse Trust Lite",
+        "codigo": "P-0778",
+        "tipo": "Periférico",
+        "cantidad": 51,
+        "precio": 106000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Impresora Inkjet HP V2",
+        "codigo": "P-0779",
+        "tipo": "Impresión",
+        "cantidad": 15,
+        "precio": 648000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tarjeta SD Crucial SE",
+        "codigo": "P-0780",
+        "tipo": "Almacenamiento",
+        "cantidad": 7,
+        "precio": 102000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Patch Panel Zyxel Lite",
+        "codigo": "P-0781",
+        "tipo": "Red",
+        "cantidad": 12,
+        "precio": 142000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco SSD PNY Plus",
+        "codigo": "P-0782",
+        "tipo": "Almacenamiento",
+        "cantidad": 4,
+        "precio": 298000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Escritorio Gaming Ergonómix Basic",
+        "codigo": "P-0783",
+        "tipo": "Mobiliario",
+        "cantidad": 55,
+        "precio": 1952000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Router WiFi Cisco Basic",
+        "codigo": "P-0784",
+        "tipo": "Red",
+        "cantidad": 62,
+        "precio": 730000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Limpiador Pantalla Orico V2",
+        "codigo": "P-0785",
+        "tipo": "Accesorio",
+        "cantidad": 14,
+        "precio": 16000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Switch 24 puertos Mikrotik Pro",
+        "codigo": "P-0786",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 829000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cámara IP Bosch SE",
+        "codigo": "P-0787",
+        "tipo": "Seguridad",
+        "cantidad": 27,
+        "precio": 352000,
+        "minimo": 11
+    },
+    {
+        "nombre": "SSD NVMe Toshiba Lite",
+        "codigo": "P-0788",
+        "tipo": "Almacenamiento",
+        "cantidad": 9,
+        "precio": 925000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Tarjeta SD WD SE",
+        "codigo": "P-0789",
+        "tipo": "Almacenamiento",
+        "cantidad": 16,
+        "precio": 31000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Funda Tablet Cable Matters X",
+        "codigo": "P-0790",
+        "tipo": "Accesorio",
+        "cantidad": 35,
+        "precio": 56000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Mini PC MSI Plus",
+        "codigo": "P-0791",
+        "tipo": "Electrónico",
+        "cantidad": 52,
+        "precio": 1443000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Proyector Acer HD",
+        "codigo": "P-0792",
+        "tipo": "Electrónico",
+        "cantidad": 9,
+        "precio": 5385000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Access Point Netgear SE",
+        "codigo": "P-0793",
+        "tipo": "Red",
+        "cantidad": 13,
+        "precio": 505000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Escritorio Gaming FlexiDesk Ultra",
+        "codigo": "P-0794",
+        "tipo": "Mobiliario",
+        "cantidad": 55,
+        "precio": 1967000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Memoria USB Samsung SE",
+        "codigo": "P-0795",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 96000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Laptop Toshiba X",
+        "codigo": "P-0796",
+        "tipo": "Electrónico",
+        "cantidad": 15,
+        "precio": 3114000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Anker V3",
+        "codigo": "P-0797",
+        "tipo": "Accesorio",
+        "cantidad": 7,
+        "precio": 65000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Licencia Adobe CC Norton 4K",
+        "codigo": "P-0798",
+        "tipo": "Software",
+        "cantidad": 3,
+        "precio": 1200000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Sensor Movimiento Bosch Basic",
+        "codigo": "P-0799",
+        "tipo": "Seguridad",
+        "cantidad": 5,
+        "precio": 114000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia Office 365 Bitdefender Slim",
+        "codigo": "P-0800",
+        "tipo": "Software",
+        "cantidad": 30,
+        "precio": 350000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Base Laptop Belkin Ultra",
+        "codigo": "P-0801",
+        "tipo": "Accesorio",
+        "cantidad": 20,
+        "precio": 80000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Disco HDD SanDisk Elite",
+        "codigo": "P-0802",
+        "tipo": "Almacenamiento",
+        "cantidad": 5,
+        "precio": 493000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Silla Ergonómica Ergonómix Slim",
+        "codigo": "P-0803",
+        "tipo": "Mobiliario",
+        "cantidad": 17,
+        "precio": 846000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Silla Ergonómica DeskMate Ultra",
+        "codigo": "P-0804",
+        "tipo": "Mobiliario",
+        "cantidad": 15,
+        "precio": 1646000,
+        "minimo": 4
+    },
+    {
+        "nombre": "DVR 8 Canales Bosch Mini",
+        "codigo": "P-0805",
+        "tipo": "Seguridad",
+        "cantidad": 1,
+        "precio": 925000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cable DisplayPort Cable Matters V2",
+        "codigo": "P-0806",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 77000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Hub USB-C Cable Matters Max",
+        "codigo": "P-0807",
+        "tipo": "Accesorio",
+        "cantidad": 28,
+        "precio": 340000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cable UTP Cat6 Cisco Elite",
+        "codigo": "P-0808",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 28000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Tóner HP Kyocera 4K",
+        "codigo": "P-0809",
+        "tipo": "Impresión",
+        "cantidad": 2,
+        "precio": 120000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Belkin Slim",
+        "codigo": "P-0810",
+        "tipo": "Accesorio",
+        "cantidad": 16,
+        "precio": 37000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Control de Acceso Axis X",
+        "codigo": "P-0811",
+        "tipo": "Seguridad",
+        "cantidad": 16,
+        "precio": 1209000,
+        "minimo": 14
+    },
+    {
+        "nombre": "UPS 1200VA Forza SE",
+        "codigo": "P-0812",
+        "tipo": "Energía",
+        "cantidad": 18,
+        "precio": 1032000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Memoria USB Toshiba Basic",
+        "codigo": "P-0813",
+        "tipo": "Almacenamiento",
+        "cantidad": 21,
+        "precio": 100000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Switch 24 puertos Cisco Mini",
+        "codigo": "P-0814",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 1395000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Impresora Inkjet Kyocera HD",
+        "codigo": "P-0815",
+        "tipo": "Impresión",
+        "cantidad": 9,
+        "precio": 948000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Teclado Microsoft Elite",
+        "codigo": "P-0816",
+        "tipo": "Periférico",
+        "cantidad": 53,
+        "precio": 171000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Licencia Antivirus Adobe V3",
+        "codigo": "P-0817",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 367000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Funda Tablet Orico Basic",
+        "codigo": "P-0818",
+        "tipo": "Accesorio",
+        "cantidad": 7,
+        "precio": 61000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Base Laptop Anker SE",
+        "codigo": "P-0819",
+        "tipo": "Accesorio",
+        "cantidad": 37,
+        "precio": 147000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia AutoCAD Microsoft Pro",
+        "codigo": "P-0820",
+        "tipo": "Software",
+        "cantidad": 11,
+        "precio": 2800000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Escritorio Gaming ComfortPro 4K",
+        "codigo": "P-0821",
+        "tipo": "Mobiliario",
+        "cantidad": 24,
+        "precio": 2099000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Gamepad Genius V2",
+        "codigo": "P-0822",
+        "tipo": "Periférico",
+        "cantidad": 35,
+        "precio": 313000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Sensor Movimiento Hikvision SE",
+        "codigo": "P-0823",
+        "tipo": "Seguridad",
+        "cantidad": 22,
+        "precio": 149000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Rack 12U Tenda Max",
+        "codigo": "P-0824",
+        "tipo": "Red",
+        "cantidad": 9,
+        "precio": 1356000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Patch Panel Netgear Lite",
+        "codigo": "P-0825",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 204000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Soporte Monitor Ugreen Basic",
+        "codigo": "P-0826",
+        "tipo": "Accesorio",
+        "cantidad": 3,
+        "precio": 113000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Cable DisplayPort AmazonBasics Plus",
+        "codigo": "P-0827",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 51000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Access Point Zyxel Lite",
+        "codigo": "P-0828",
+        "tipo": "Red",
+        "cantidad": 7,
+        "precio": 495000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Monitor Asus Pro",
+        "codigo": "P-0829",
+        "tipo": "Electrónico",
+        "cantidad": 19,
+        "precio": 861000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Escritorio Gaming ErgoChair Pro",
+        "codigo": "P-0830",
+        "tipo": "Mobiliario",
+        "cantidad": 0,
+        "precio": 1752000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Impresora 3D Epson SE",
+        "codigo": "P-0831",
+        "tipo": "Impresión",
+        "cantidad": 51,
+        "precio": 4821000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Monitor Acer Plus",
+        "codigo": "P-0832",
+        "tipo": "Electrónico",
+        "cantidad": 39,
+        "precio": 1043000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Licencia Antivirus Kaspersky Elite",
+        "codigo": "P-0833",
+        "tipo": "Software",
+        "cantidad": 24,
+        "precio": 232000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Cámara IP Axis 4K",
+        "codigo": "P-0834",
+        "tipo": "Seguridad",
+        "cantidad": 27,
+        "precio": 466000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Micrófono USB Trust Slim",
+        "codigo": "P-0835",
+        "tipo": "Periférico",
+        "cantidad": 25,
+        "precio": 412000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Tarjeta SD Toshiba Elite",
+        "codigo": "P-0836",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 57000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Control de Acceso Dahua X",
+        "codigo": "P-0837",
+        "tipo": "Seguridad",
+        "cantidad": 5,
+        "precio": 577000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Licencia AutoCAD Bitdefender SE",
+        "codigo": "P-0838",
+        "tipo": "Software",
+        "cantidad": 5,
+        "precio": 2800000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Licencia Adobe CC ESET SE",
+        "codigo": "P-0839",
+        "tipo": "Software",
+        "cantidad": 41,
+        "precio": 1200000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Rack 12U Tenda Max",
+        "codigo": "P-0840",
+        "tipo": "Red",
+        "cantidad": 27,
+        "precio": 738000,
+        "minimo": 13
+    },
+    {
+        "nombre": "DVR 8 Canales Honeywell HD",
+        "codigo": "P-0841",
+        "tipo": "Seguridad",
+        "cantidad": 30,
+        "precio": 1360000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Servidor Rack 1U Toshiba Plus",
+        "codigo": "P-0842",
+        "tipo": "Electrónico",
+        "cantidad": 1,
+        "precio": 12471000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Servidor Rack 1U Dell Ultra",
+        "codigo": "P-0843",
+        "tipo": "Electrónico",
+        "cantidad": 22,
+        "precio": 15302000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Laptop HP X",
+        "codigo": "P-0844",
+        "tipo": "Electrónico",
+        "cantidad": 9,
+        "precio": 3640000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Soporte Monitor Anker V3",
+        "codigo": "P-0845",
+        "tipo": "Accesorio",
+        "cantidad": 10,
+        "precio": 280000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Auriculares LG V2",
+        "codigo": "P-0846",
+        "tipo": "Electrónico",
+        "cantidad": 19,
+        "precio": 669000,
+        "minimo": 6
+    },
+    {
+        "nombre": "UPS 2000VA Forza X",
+        "codigo": "P-0847",
+        "tipo": "Energía",
+        "cantidad": 25,
+        "precio": 1344000,
+        "minimo": 12
+    },
+    {
+        "nombre": "SSD NVMe PNY HD",
+        "codigo": "P-0848",
+        "tipo": "Almacenamiento",
+        "cantidad": 8,
+        "precio": 850000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Impresora 3D Canon X",
+        "codigo": "P-0849",
+        "tipo": "Impresión",
+        "cantidad": 61,
+        "precio": 4320000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Teclado Razer V3",
+        "codigo": "P-0850",
+        "tipo": "Periférico",
+        "cantidad": 19,
+        "precio": 197000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Cámara Web HyperX SE",
+        "codigo": "P-0851",
+        "tipo": "Periférico",
+        "cantidad": 9,
+        "precio": 325000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Silla Ergonómica DeskMate V2",
+        "codigo": "P-0852",
+        "tipo": "Mobiliario",
+        "cantidad": 4,
+        "precio": 556000,
+        "minimo": 4
+    },
+    {
+        "nombre": "DVR 8 Canales Hikvision 4K",
+        "codigo": "P-0853",
+        "tipo": "Seguridad",
+        "cantidad": 36,
+        "precio": 877000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Proyector Dell Ultra",
+        "codigo": "P-0854",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 3616000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tablet LG Slim",
+        "codigo": "P-0855",
+        "tipo": "Electrónico",
+        "cantidad": 29,
+        "precio": 1620000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Cable DisplayPort Vention Pro",
+        "codigo": "P-0856",
+        "tipo": "Accesorio",
+        "cantidad": 12,
+        "precio": 44000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Lápiz Digitalizador A4Tech Ultra",
+        "codigo": "P-0857",
+        "tipo": "Periférico",
+        "cantidad": 10,
+        "precio": 139000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Rack 12U D-Link X",
+        "codigo": "P-0858",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 997000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Impresora Inkjet Xerox Pro",
+        "codigo": "P-0859",
+        "tipo": "Impresión",
+        "cantidad": 15,
+        "precio": 481000,
+        "minimo": 3
+    },
+    {
+        "nombre": "NAS Server SanDisk V2",
+        "codigo": "P-0860",
+        "tipo": "Almacenamiento",
+        "cantidad": 8,
+        "precio": 2818000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Mochila Laptop Cable Matters Plus",
+        "codigo": "P-0861",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 166000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Servidor Rack 1U Toshiba Max",
+        "codigo": "P-0862",
+        "tipo": "Electrónico",
+        "cantidad": 10,
+        "precio": 11193000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Lápiz Digitalizador Microsoft Slim",
+        "codigo": "P-0863",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 193000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Gamepad Genius SE",
+        "codigo": "P-0864",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 174000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Cartucho Epson Canon Plus",
+        "codigo": "P-0865",
+        "tipo": "Impresión",
+        "cantidad": 24,
+        "precio": 176000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Impresora 3D Xerox Lite",
+        "codigo": "P-0866",
+        "tipo": "Impresión",
+        "cantidad": 26,
+        "precio": 4589000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Funda Tablet Ugreen HD",
+        "codigo": "P-0867",
+        "tipo": "Accesorio",
+        "cantidad": 49,
+        "precio": 162000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Licencia Antivirus Microsoft Lite",
+        "codigo": "P-0868",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 179000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Escritorio Gaming FlexiDesk V2",
+        "codigo": "P-0869",
+        "tipo": "Mobiliario",
+        "cantidad": 18,
+        "precio": 2016000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Memoria RAM PNY SE",
+        "codigo": "P-0870",
+        "tipo": "Almacenamiento",
+        "cantidad": 28,
+        "precio": 189000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Cartucho Epson HP Mini",
+        "codigo": "P-0871",
+        "tipo": "Impresión",
+        "cantidad": 5,
+        "precio": 132000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Access Point Mikrotik Max",
+        "codigo": "P-0872",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 503000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Cable UTP Cat6 D-Link Basic",
+        "codigo": "P-0873",
+        "tipo": "Red",
+        "cantidad": 11,
+        "precio": 31000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Impresora Láser Epson 4K",
+        "codigo": "P-0874",
+        "tipo": "Impresión",
+        "cantidad": 24,
+        "precio": 1722000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Limpiador Pantalla Belkin Plus",
+        "codigo": "P-0875",
+        "tipo": "Accesorio",
+        "cantidad": 43,
+        "precio": 17000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Silla Ergonómica Ergonómix HD",
+        "codigo": "P-0876",
+        "tipo": "Mobiliario",
+        "cantidad": 7,
+        "precio": 1558000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Silla Ergonómica ComfortPro Lite",
+        "codigo": "P-0877",
+        "tipo": "Mobiliario",
+        "cantidad": 3,
+        "precio": 1626000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Funda Tablet Vention Ultra",
+        "codigo": "P-0878",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 146000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Smartphone MSI HD",
+        "codigo": "P-0879",
+        "tipo": "Electrónico",
+        "cantidad": 11,
+        "precio": 2633000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Patch Panel Mikrotik Mini",
+        "codigo": "P-0880",
+        "tipo": "Red",
+        "cantidad": 2,
+        "precio": 471000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Cable HDMI Vention Lite",
+        "codigo": "P-0881",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 58000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Hub USB-C Anker Mini",
+        "codigo": "P-0882",
+        "tipo": "Accesorio",
+        "cantidad": 34,
+        "precio": 146000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Impresora 3D Epson SE",
+        "codigo": "P-0883",
+        "tipo": "Impresión",
+        "cantidad": 3,
+        "precio": 3653000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Memoria USB Seagate Lite",
+        "codigo": "P-0884",
+        "tipo": "Almacenamiento",
+        "cantidad": 16,
+        "precio": 79000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Memoria USB Toshiba Ultra",
+        "codigo": "P-0885",
+        "tipo": "Almacenamiento",
+        "cantidad": 11,
+        "precio": 82000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Control de Acceso Hikvision V3",
+        "codigo": "P-0886",
+        "tipo": "Seguridad",
+        "cantidad": 7,
+        "precio": 932000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Office 365 Kaspersky Basic",
+        "codigo": "P-0887",
+        "tipo": "Software",
+        "cantidad": 23,
+        "precio": 350000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Access Point TP-Link Elite",
+        "codigo": "P-0888",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 711000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Licencia Adobe CC Bitdefender V2",
+        "codigo": "P-0889",
+        "tipo": "Software",
+        "cantidad": 30,
+        "precio": 1200000,
+        "minimo": 14
+    },
+    {
+        "nombre": "UPS 1200VA Eaton Pro",
+        "codigo": "P-0890",
+        "tipo": "Energía",
+        "cantidad": 3,
+        "precio": 887000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Scanner SteelSeries Lite",
+        "codigo": "P-0891",
+        "tipo": "Periférico",
+        "cantidad": 8,
+        "precio": 994000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Impresora 3D Canon Max",
+        "codigo": "P-0892",
+        "tipo": "Impresión",
+        "cantidad": 26,
+        "precio": 6090000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Memoria RAM Samsung Mini",
+        "codigo": "P-0893",
+        "tipo": "Almacenamiento",
+        "cantidad": 26,
+        "precio": 304000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Lápiz Digitalizador Havit X",
+        "codigo": "P-0894",
+        "tipo": "Periférico",
+        "cantidad": 30,
+        "precio": 256000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Memoria RAM SanDisk V2",
+        "codigo": "P-0895",
+        "tipo": "Almacenamiento",
+        "cantidad": 37,
+        "precio": 702000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Licencia AutoCAD Microsoft Mini",
+        "codigo": "P-0896",
+        "tipo": "Software",
+        "cantidad": 18,
+        "precio": 2800000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Licencia Antivirus Adobe V2",
+        "codigo": "P-0897",
+        "tipo": "Software",
+        "cantidad": 33,
+        "precio": 292000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia Office 365 Microsoft Plus",
+        "codigo": "P-0898",
+        "tipo": "Software",
+        "cantidad": 3,
+        "precio": 350000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Soporte Monitor Ugreen V3",
+        "codigo": "P-0899",
+        "tipo": "Accesorio",
+        "cantidad": 28,
+        "precio": 143000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Licencia AutoCAD Kaspersky HD",
+        "codigo": "P-0900",
+        "tipo": "Software",
+        "cantidad": 41,
+        "precio": 2800000,
+        "minimo": 13
+    },
+    {
+        "nombre": "SSD NVMe Seagate Elite",
+        "codigo": "P-0901",
+        "tipo": "Almacenamiento",
+        "cantidad": 12,
+        "precio": 303000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Mochila Laptop Cable Matters V3",
+        "codigo": "P-0902",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 160000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Cámara Web Razer Slim",
+        "codigo": "P-0903",
+        "tipo": "Periférico",
+        "cantidad": 0,
+        "precio": 362000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Limpiador Pantalla Orico SE",
+        "codigo": "P-0904",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 17000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Proyector LG Ultra",
+        "codigo": "P-0905",
+        "tipo": "Electrónico",
+        "cantidad": 19,
+        "precio": 3678000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Escritorio Gaming FlexiDesk Elite",
+        "codigo": "P-0906",
+        "tipo": "Mobiliario",
+        "cantidad": 1,
+        "precio": 1658000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Base Laptop Ugreen 4K",
+        "codigo": "P-0907",
+        "tipo": "Accesorio",
+        "cantidad": 70,
+        "precio": 138000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Firewall Bosch SE",
+        "codigo": "P-0908",
+        "tipo": "Seguridad",
+        "cantidad": 9,
+        "precio": 5444000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Regulador Voltaje Eaton Lite",
+        "codigo": "P-0909",
+        "tipo": "Energía",
+        "cantidad": 27,
+        "precio": 373000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Servidor Rack 1U Samsung Lite",
+        "codigo": "P-0910",
+        "tipo": "Electrónico",
+        "cantidad": 19,
+        "precio": 14341000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Ugreen Mini",
+        "codigo": "P-0911",
+        "tipo": "Accesorio",
+        "cantidad": 1,
+        "precio": 34000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Rack 12U Netgear Max",
+        "codigo": "P-0912",
+        "tipo": "Red",
+        "cantidad": 40,
+        "precio": 1237000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Funda Tablet Orico Ultra",
+        "codigo": "P-0913",
+        "tipo": "Accesorio",
+        "cantidad": 32,
+        "precio": 47000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Regleta Eléctrica Anker HD",
+        "codigo": "P-0914",
+        "tipo": "Accesorio",
+        "cantidad": 36,
+        "precio": 35000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Licencia AutoCAD ESET Mini",
+        "codigo": "P-0915",
+        "tipo": "Software",
+        "cantidad": 4,
+        "precio": 2800000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Sensor Movimiento Honeywell Basic",
+        "codigo": "P-0916",
+        "tipo": "Seguridad",
+        "cantidad": 6,
+        "precio": 152000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Rack 12U Ubiquiti Ultra",
+        "codigo": "P-0917",
+        "tipo": "Red",
+        "cantidad": 4,
+        "precio": 1739000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Licencia Office 365 Microsoft Elite",
+        "codigo": "P-0918",
+        "tipo": "Software",
+        "cantidad": 0,
+        "precio": 350000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Switch 24 puertos Zyxel Ultra",
+        "codigo": "P-0919",
+        "tipo": "Red",
+        "cantidad": 31,
+        "precio": 2084000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Monitor Lenovo Pro",
+        "codigo": "P-0920",
+        "tipo": "Electrónico",
+        "cantidad": 1,
+        "precio": 1695000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cartucho Epson Canon Elite",
+        "codigo": "P-0921",
+        "tipo": "Impresión",
+        "cantidad": 0,
+        "precio": 157000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Proyector Lenovo Pro",
+        "codigo": "P-0922",
+        "tipo": "Electrónico",
+        "cantidad": 3,
+        "precio": 5843000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Cámara IP Honeywell Max",
+        "codigo": "P-0923",
+        "tipo": "Seguridad",
+        "cantidad": 34,
+        "precio": 754000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Proyector Lenovo Pro",
+        "codigo": "P-0924",
+        "tipo": "Electrónico",
+        "cantidad": 48,
+        "precio": 3983000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Access Point Netgear Basic",
+        "codigo": "P-0925",
+        "tipo": "Red",
+        "cantidad": 15,
+        "precio": 536000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Mouse HyperX Mini",
+        "codigo": "P-0926",
+        "tipo": "Periférico",
+        "cantidad": 1,
+        "precio": 242000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Lápiz Digitalizador Microsoft V3",
+        "codigo": "P-0927",
+        "tipo": "Periférico",
+        "cantidad": 6,
+        "precio": 287000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Access Point Tenda V2",
+        "codigo": "P-0928",
+        "tipo": "Red",
+        "cantidad": 6,
+        "precio": 599000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Tablet MSI SE",
+        "codigo": "P-0929",
+        "tipo": "Electrónico",
+        "cantidad": 15,
+        "precio": 1050000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Lápiz Digitalizador Trust Slim",
+        "codigo": "P-0930",
+        "tipo": "Periférico",
+        "cantidad": 22,
+        "precio": 103000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Impresora Inkjet Xerox Mini",
+        "codigo": "P-0931",
+        "tipo": "Impresión",
+        "cantidad": 1,
+        "precio": 652000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Regulador Voltaje APC Mini",
+        "codigo": "P-0932",
+        "tipo": "Energía",
+        "cantidad": 9,
+        "precio": 209000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cable HDMI Vention Elite",
+        "codigo": "P-0933",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 65000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Micrófono USB Microsoft Plus",
+        "codigo": "P-0934",
+        "tipo": "Periférico",
+        "cantidad": 1,
+        "precio": 531000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Smartphone Samsung V2",
+        "codigo": "P-0935",
+        "tipo": "Electrónico",
+        "cantidad": 19,
+        "precio": 1530000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Teclado Microsoft Basic",
+        "codigo": "P-0936",
+        "tipo": "Periférico",
+        "cantidad": 32,
+        "precio": 242000,
+        "minimo": 10
+    },
+    {
+        "nombre": "DVR 8 Canales Honeywell V3",
+        "codigo": "P-0937",
+        "tipo": "Seguridad",
+        "cantidad": 7,
+        "precio": 975000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Anker Ultra",
+        "codigo": "P-0938",
+        "tipo": "Accesorio",
+        "cantidad": 9,
+        "precio": 150000,
+        "minimo": 2
+    },
+    {
+        "nombre": "UPS 1200VA Forza SE",
+        "codigo": "P-0939",
+        "tipo": "Energía",
+        "cantidad": 3,
+        "precio": 1193000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Firewall Bosch Max",
+        "codigo": "P-0940",
+        "tipo": "Seguridad",
+        "cantidad": 3,
+        "precio": 7799000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Smart TV MSI Elite",
+        "codigo": "P-0941",
+        "tipo": "Electrónico",
+        "cantidad": 23,
+        "precio": 3040000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Memoria USB Lexar Pro",
+        "codigo": "P-0942",
+        "tipo": "Almacenamiento",
+        "cantidad": 21,
+        "precio": 106000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Licencia AutoCAD Microsoft X",
+        "codigo": "P-0943",
+        "tipo": "Software",
+        "cantidad": 34,
+        "precio": 2800000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Adaptador USB-C HDMI Belkin V2",
+        "codigo": "P-0944",
+        "tipo": "Accesorio",
+        "cantidad": 48,
+        "precio": 103000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Hub USB-C Orico HD",
+        "codigo": "P-0945",
+        "tipo": "Accesorio",
+        "cantidad": 14,
+        "precio": 377000,
+        "minimo": 4
+    },
+    {
+        "nombre": "SSD NVMe SanDisk Plus",
+        "codigo": "P-0946",
+        "tipo": "Almacenamiento",
+        "cantidad": 12,
+        "precio": 378000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Sensor Movimiento Dahua Elite",
+        "codigo": "P-0947",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 93000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Lápiz Digitalizador Razer Pro",
+        "codigo": "P-0948",
+        "tipo": "Periférico",
+        "cantidad": 54,
+        "precio": 236000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Cable UTP Cat6 Ubiquiti Pro",
+        "codigo": "P-0949",
+        "tipo": "Red",
+        "cantidad": 7,
+        "precio": 19000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Laptop Asus V2",
+        "codigo": "P-0950",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 3512000,
+        "minimo": 15
+    },
+    {
+        "nombre": "DVR 8 Canales Hanwha Pro",
+        "codigo": "P-0951",
+        "tipo": "Seguridad",
+        "cantidad": 36,
+        "precio": 1319000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Control de Acceso Bosch HD",
+        "codigo": "P-0952",
+        "tipo": "Seguridad",
+        "cantidad": 48,
+        "precio": 499000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Tablet Dell 4K",
+        "codigo": "P-0953",
+        "tipo": "Electrónico",
+        "cantidad": 11,
+        "precio": 1422000,
+        "minimo": 3
+    },
+    {
+        "nombre": "Cámara Web Razer V3",
+        "codigo": "P-0954",
+        "tipo": "Periférico",
+        "cantidad": 22,
+        "precio": 238000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Rack 12U D-Link X",
+        "codigo": "P-0955",
+        "tipo": "Red",
+        "cantidad": 36,
+        "precio": 1016000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Mochila Laptop Belkin HD",
+        "codigo": "P-0956",
+        "tipo": "Accesorio",
+        "cantidad": 54,
+        "precio": 303000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Router WiFi Cisco Elite",
+        "codigo": "P-0957",
+        "tipo": "Red",
+        "cantidad": 31,
+        "precio": 364000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Base Laptop Anker SE",
+        "codigo": "P-0958",
+        "tipo": "Accesorio",
+        "cantidad": 29,
+        "precio": 208000,
+        "minimo": 9
+    },
+    {
+        "nombre": "UPS 1200VA Forza 4K",
+        "codigo": "P-0959",
+        "tipo": "Energía",
+        "cantidad": 35,
+        "precio": 860000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Control de Acceso Hanwha Max",
+        "codigo": "P-0960",
+        "tipo": "Seguridad",
+        "cantidad": 35,
+        "precio": 872000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Limpiador Pantalla Vention Slim",
+        "codigo": "P-0961",
+        "tipo": "Accesorio",
+        "cantidad": 21,
+        "precio": 28000,
+        "minimo": 7
+    },
+    {
+        "nombre": "NAS Server Samsung V3",
+        "codigo": "P-0962",
+        "tipo": "Almacenamiento",
+        "cantidad": 22,
+        "precio": 1341000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Teclado SteelSeries Pro",
+        "codigo": "P-0963",
+        "tipo": "Periférico",
+        "cantidad": 3,
+        "precio": 233000,
+        "minimo": 5
+    },
+    {
+        "nombre": "Monitor Acer Slim",
+        "codigo": "P-0964",
+        "tipo": "Electrónico",
+        "cantidad": 46,
+        "precio": 1733000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Auriculares Dell Pro",
+        "codigo": "P-0965",
+        "tipo": "Electrónico",
+        "cantidad": 3,
+        "precio": 1092000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Memoria USB Transcend Basic",
+        "codigo": "P-0966",
+        "tipo": "Almacenamiento",
+        "cantidad": 8,
+        "precio": 54000,
+        "minimo": 6
+    },
+    {
+        "nombre": "UPS 2000VA Tripp-Lite X",
+        "codigo": "P-0967",
+        "tipo": "Energía",
+        "cantidad": 0,
+        "precio": 1225000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Disco SSD Lexar Elite",
+        "codigo": "P-0968",
+        "tipo": "Almacenamiento",
+        "cantidad": 59,
+        "precio": 699000,
+        "minimo": 15
+    },
+    {
+        "nombre": "UPS 2000VA APC X",
+        "codigo": "P-0969",
+        "tipo": "Energía",
+        "cantidad": 0,
+        "precio": 2095000,
+        "minimo": 6
+    },
+    {
+        "nombre": "DVR 8 Canales Axis Mini",
+        "codigo": "P-0970",
+        "tipo": "Seguridad",
+        "cantidad": 0,
+        "precio": 740000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Limpiador Pantalla Ugreen Max",
+        "codigo": "P-0971",
+        "tipo": "Accesorio",
+        "cantidad": 15,
+        "precio": 39000,
+        "minimo": 8
+    },
+    {
+        "nombre": "Licencia Antivirus Bitdefender Basic",
+        "codigo": "P-0972",
+        "tipo": "Software",
+        "cantidad": 15,
+        "precio": 454000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Escritorio Gaming DeskMate Mini",
+        "codigo": "P-0973",
+        "tipo": "Mobiliario",
+        "cantidad": 16,
+        "precio": 690000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Firewall Axis Elite",
+        "codigo": "P-0974",
+        "tipo": "Seguridad",
+        "cantidad": 19,
+        "precio": 4477000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Smartphone LG Lite",
+        "codigo": "P-0975",
+        "tipo": "Electrónico",
+        "cantidad": 25,
+        "precio": 3337000,
+        "minimo": 11
+    },
+    {
+        "nombre": "Router WiFi Ubiquiti HD",
+        "codigo": "P-0976",
+        "tipo": "Red",
+        "cantidad": 0,
+        "precio": 583000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Proyector Apple X",
+        "codigo": "P-0977",
+        "tipo": "Electrónico",
+        "cantidad": 15,
+        "precio": 2203000,
+        "minimo": 10
+    },
+    {
+        "nombre": "NAS Server PNY Mini",
+        "codigo": "P-0978",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 4369000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Teclado Microsoft SE",
+        "codigo": "P-0979",
+        "tipo": "Periférico",
+        "cantidad": 45,
+        "precio": 181000,
+        "minimo": 9
+    },
+    {
+        "nombre": "Lápiz Digitalizador A4Tech X",
+        "codigo": "P-0980",
+        "tipo": "Periférico",
+        "cantidad": 2,
+        "precio": 278000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Tóner HP Kyocera Mini",
+        "codigo": "P-0981",
+        "tipo": "Impresión",
+        "cantidad": 17,
+        "precio": 167000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Mouse Genius Mini",
+        "codigo": "P-0982",
+        "tipo": "Periférico",
+        "cantidad": 3,
+        "precio": 138000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Regleta Eléctrica Cable Matters Pro",
+        "codigo": "P-0983",
+        "tipo": "Accesorio",
+        "cantidad": 18,
+        "precio": 74000,
+        "minimo": 4
+    },
+    {
+        "nombre": "Silla Ergonómica FlexiDesk Lite",
+        "codigo": "P-0984",
+        "tipo": "Mobiliario",
+        "cantidad": 11,
+        "precio": 541000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Memoria USB Seagate HD",
+        "codigo": "P-0985",
+        "tipo": "Almacenamiento",
+        "cantidad": 0,
+        "precio": 118000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Mochila Laptop Belkin Basic",
+        "codigo": "P-0986",
+        "tipo": "Accesorio",
+        "cantidad": 33,
+        "precio": 195000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Laptop Samsung V3",
+        "codigo": "P-0987",
+        "tipo": "Electrónico",
+        "cantidad": 6,
+        "precio": 1955000,
+        "minimo": 6
+    },
+    {
+        "nombre": "Disco HDD Kingston V3",
+        "codigo": "P-0988",
+        "tipo": "Almacenamiento",
+        "cantidad": 3,
+        "precio": 425000,
+        "minimo": 5
+    },
+    {
+        "nombre": "UPS 1200VA Tripp-Lite X",
+        "codigo": "P-0989",
+        "tipo": "Energía",
+        "cantidad": 14,
+        "precio": 624000,
+        "minimo": 13
+    },
+    {
+        "nombre": "Tarjeta SD Transcend Slim",
+        "codigo": "P-0990",
+        "tipo": "Almacenamiento",
+        "cantidad": 1,
+        "precio": 164000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Cartucho Epson Epson HD",
+        "codigo": "P-0991",
+        "tipo": "Impresión",
+        "cantidad": 2,
+        "precio": 114000,
+        "minimo": 2
+    },
+    {
+        "nombre": "Smart TV LG V2",
+        "codigo": "P-0992",
+        "tipo": "Electrónico",
+        "cantidad": 54,
+        "precio": 2311000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Memoria USB WD Pro",
+        "codigo": "P-0993",
+        "tipo": "Almacenamiento",
+        "cantidad": 39,
+        "precio": 62000,
+        "minimo": 15
+    },
+    {
+        "nombre": "Impresora Láser Brother SE",
+        "codigo": "P-0994",
+        "tipo": "Impresión",
+        "cantidad": 26,
+        "precio": 1107000,
+        "minimo": 7
+    },
+    {
+        "nombre": "Firewall Hikvision Elite",
+        "codigo": "P-0995",
+        "tipo": "Seguridad",
+        "cantidad": 45,
+        "precio": 3429000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Mini PC HP Pro",
+        "codigo": "P-0996",
+        "tipo": "Electrónico",
+        "cantidad": 8,
+        "precio": 1356000,
+        "minimo": 10
+    },
+    {
+        "nombre": "NAS Server Seagate Pro",
+        "codigo": "P-0997",
+        "tipo": "Almacenamiento",
+        "cantidad": 52,
+        "precio": 2620000,
+        "minimo": 12
+    },
+    {
+        "nombre": "Papel Fotográfico A4 Anker SE",
+        "codigo": "P-0998",
+        "tipo": "Accesorio",
+        "cantidad": 0,
+        "precio": 35000,
+        "minimo": 14
+    },
+    {
+        "nombre": "Impresora 3D Brother Slim",
+        "codigo": "P-0999",
+        "tipo": "Impresión",
+        "cantidad": 24,
+        "precio": 1741000,
+        "minimo": 10
+    },
+    {
+        "nombre": "Auriculares Samsung Slim",
+        "codigo": "P-1000",
+        "tipo": "Electrónico",
+        "cantidad": 0,
+        "precio": 954000,
+        "minimo": 12
+    }
+]
